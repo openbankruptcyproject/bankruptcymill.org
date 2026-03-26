@@ -1,7 +1,6 @@
-{
-  "name": "What Is a Bankruptcy Mill? | bankruptcymill.org",
+{"name": "Bankruptcy Mill Detection",
   "short_name": "bankruptcymill.org",
-  "description": "Free guide to identifying bankruptcy mills -- high-volume law firms that prioritize fees over client outcomes. Learn the warning signs, how to check your attorney, and what to do if you're a victim.",
+  "description": "Consumer protection tools for identifying high-volume bankruptcy firms",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0d1117",
