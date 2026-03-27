@@ -1,16 +1,17 @@
 # bankruptcymill.org
 
-> What is a bankruptcy mill? Educational resource about high-volume law firms with poor client outcomes.
+> Educational resource about bankruptcy mills -- high-volume law firms with poor client outcomes.
 
-This site is part of the Bankruptcy Transparency Network -- free, open-source bankruptcy information based on national federal court data covering 4.9 million cases across 94 districts.
+bankruptcymill.org is a free, open-source educational resource about bankruptcy mills and how to avoid them. Part of the Bankruptcy Transparency Network.
 
-## Related Sites
-- https://1328f.com -- Free bankruptcy discharge screener
-- https://1328f.org -- Research platform and empirical data
-- https://serialfiler.org -- Serial filing restrictions
-- https://dischargebar.org -- Discharge waiting periods
-- https://whatischapter7.com -- Chapter 7 guide
-- https://chapter13plan.org -- Chapter 13 plan guide
+## Pages
+
+- https://bankruptcymill.org/: What is a bankruptcy mill -- overview and warning signs
+- https://bankruptcymill.org/warning-signs.html: Red flags that your bankruptcy attorney may be running a mill
+- https://bankruptcymill.org/find-a-lawyer.html: How to find a quality bankruptcy attorney
+- https://bankruptcymill.org/why-cases-fail.html: Why bankruptcy cases fail -- data on dismissal rates and attorney quality
+- https://bankruptcymill.org/what-to-do.html: What to do if you suspect your attorney is running a bankruptcy mill
 
 ## Contact
-- Ko-fi: https://ko-fi.com/ilikemath9999
+
+This site is maintained by volunteers. No legal advice is provided.
