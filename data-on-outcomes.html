@@ -32,6 +32,8 @@ ul,ol{margin:0 0 1rem 1.5rem;color:#ccc;font-size:15px}li{margin-bottom:0.5rem}
 .disclaimer{background:#111;border:1px solid #333;border-radius:8px;padding:1rem 1.25rem;margin-top:2.5rem;font-size:0.8rem;color:#888}
 .network-footer{background:#111;border-top:1px solid #333;padding:2rem 24px;text-align:center;margin-top:48px}.network-footer p{color:#888;font-size:0.85rem;margin-bottom:0.5rem}.network-footer .links{display:flex;justify-content:center;flex-wrap:wrap;gap:1rem;margin-top:0.75rem}.network-footer .links a{color:#888;font-size:0.85rem}.network-footer .links a:hover{color:#60a5fa}
 @media(max-width:600px){h1{font-size:22px}main{padding:28px 16px}.hamburger{display:block}.nav-links{display:none;width:100%;flex-direction:column;gap:0;padding-top:12px}.nav-links.open{display:flex}.nav-links a{display:block;padding:10px 0;border-top:1px solid #222;min-height:44px;line-height:1.6}.stat-card .num{font-size:24px}}
+
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
 </style>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
@@ -130,6 +132,8 @@ ul,ol{margin:0 0 1rem 1.5rem;color:#ccc;font-size:15px}li{margin-bottom:0.5rem}
 </nav>
 
 <main id="main-content">
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://bankruptcymill.org">Bankruptcy Mills</a><span class="separator">&rsaquo;</span><span>Bankruptcy Mill Outcomes: What the Data Shows</span></nav>
+
   <h1>Bankruptcy Mill Outcomes: What the Data Shows</h1>
   <p class="subtitle">Federal court data from 4.9 million cases reveals measurable patterns in attorney performance</p>
 
@@ -296,5 +300,6 @@ ul,ol{margin:0 0 1rem 1.5rem;color:#ccc;font-size:15px}li{margin-bottom:0.5rem}
 <!-- BTN:FOOTER:END -->
 <script>fetch("https://1328f.com/data/recap-count.json").then(function(r){return r.json()}).then(function(d){var e=document.getElementById("recap-count");if(e&&d.count!==undefined)e.textContent=d.count.toLocaleString();var b=document.getElementById("recap-bar");if(b&&d.count)b.style.width=Math.min(100,d.count/37900000*100).toFixed(4)+"%";var dn=document.getElementById("recap-donated");if(dn&&d.donated!==undefined)dn.textContent="$"+d.donated.toLocaleString()}).catch(function(){})</script>
 <script src="/btn-engage.js" defer></script>
+<script src="https://openbankruptcyproject.org/btn-search.js" defer></script>
 </body>
 </html>

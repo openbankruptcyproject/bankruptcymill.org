@@ -1,0 +1,2053 @@
+# bankruptcymill.org -- Full Content
+
+This file contains the full text content of all pages on bankruptcymill.org.
+Part of the Open Bankruptcy Project (openbankruptcyproject.org).
+
+
+---
+
+## Bankruptcy Mill Outcomes Data: What Federal Courts Show
+Source: https://bankruptcymill.org/data-on-outcomes.html
+
+Skip to main content
+
+bankruptcymill.org
+☰
+
+Home
+Warning Signs
+How to Spot
+Outcomes Data
+Questions to Ask
+Why Cases Fail
+What To Do
+Find a Lawyer
+
+Bankruptcy Mill Outcomes: What the Data Shows
+
+Federal court data from 4.9 million cases reveals measurable patterns in attorney performance
+
+The question of whether attorney choice affects bankruptcy outcomes is not a matter of opinion. Federal court records provide clear, measurable answers. When you analyze 4.9 million bankruptcy cases across all 94 federal districts, patterns emerge that are difficult to explain as anything other than differences in the quality of representation.
+
+The National Picture
+
+26.1%
+
+National Ch. 13 dismissal rate
+
+60-67%
+
+Estimated Ch. 13 total failure rate
+
+4.9M
+
+Cases in the federal dataset
+
+70+ pts
+
+Attorney dismissal rate gap within same court
+
+The 26.1% national dismissal rate only counts cases formally dismissed by the court. When you add voluntary dismissals, conversions to Chapter 7, and cases closed without discharge, the true failure rate for Chapter 13 cases reaches 60-67%. That means the majority of people who file Chapter 13 bankruptcy never complete their plan and receive a discharge.
+
+The Attorney Effect
+
+The most striking finding in the data is the enormous variation between attorneys practicing in the same court. Within a single district:
+
+The best-performing attorneys consistently achieve discharge rates above 80%
+
+The worst-performing attorneys see fewer than 15-20% of their clients reach discharge
+
+This gap exists even when controlling for the same court, same judges, and similar case types
+
+When attorneys in the same courthouse, subject to the same rules and judges, produce wildly different outcomes, the difference is attributable to the quality of representation -- not the difficulty of the cases.
+
+Volume and Outcomes
+
+The correlation is not automatic
+
+High volume alone does not guarantee poor outcomes. Some high-volume attorneys maintain excellent discharge rates through well-organized practices, adequate staffing, and genuine client attention. The pattern associated with mills is a specific combination: extremely high volume paired with poor outcomes, aggressive advertising, and minimal client contact.
+
+What the data consistently shows:
+
+Attorneys in the highest volume brackets are overrepresented among the worst performers
+
+The relationship between volume and poor outcomes is strongest in Chapter 13
+
+Firms that advertise "no money down" tend to cluster in the high-volume, high-dismissal group
+
+The effect is district-specific -- a high-volume attorney in one district may perform differently than in another
+
+What This Means for Consumers
+
+The data suggests that choosing an attorney is one of the most consequential decisions a bankruptcy filer makes. The difference between a good attorney and a poor one can mean the difference between completing your plan and losing years of payments with nothing to show for it.
+
+Before hiring an attorney, ask the right questions. If you are already in a case and suspect problems, see our guide on what to do.
+
+Cross-References
+
+Bankruptcy malpractice -- when poor representation crosses the line
+
+Attorney impact on dismissal rates
+
+How to file bankruptcy -- step-by-step guide
+
+Data source: FJC Integrated Database and public PACER records. Analysis covers cases filed 2008-2024 across all 94 federal judicial districts.
+
+Not legal advice. This site provides general educational information. It does not identify or name any specific attorney or firm. Consult a qualified attorney for your specific situation.
+
+Related Guides
+
+Open Bankruptcy Project
+
+Attorney Monitoring Dashboard
+
+Section 329 Fee Disgorgement
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+♥ Sponsor
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+Sponsor this research
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy malpractice and mill attorneys:
+
+11 U.S.C. Section 329
+Cornell LII -- attorney fee review
+
+11 U.S.C. Sections 526-528
+Cornell LII -- debt relief agency rules
+
+U.S. Trustee Program
+DOJ attorney oversight
+
+CFPB Complaint Tool
+File complaints
+
+State Bar Discipline Lookup
+ABA links
+
+Find Free Legal Aid
+Alternative to mill attorneys
+
+Bankruptcy Mill Research
+Google Scholar
+
+Related Guides
+
+Protect Yourself from Mills
+
+Free bankruptcy information guide
+
+bankruptcymill.com →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Bankruptcy Means Test Guide
+
+Find out if you qualify for Chapter 7
+
+meanstest.org →
+
+The Automatic Stay Explained
+
+How the automatic stay protects you from creditors
+
+automaticstay.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+1328f.com1328f.orgbankruptcymalpractice.orgdismissalrate.orghowtofilebankruptcy.org
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## How to Find a Bankruptcy Lawyer -- Bankruptcy Mill
+Source: https://bankruptcymill.org/find-a-lawyer.html
+
+Skip to main content
+
+bankruptcymill.org
+☰
+
+Home
+Warning Signs
+Why Cases Fail
+What To Do
+Find a Lawyer
+
+How to Find a Bankruptcy Lawyer
+
+Your choice of attorney significantly affects your outcome. Here is how to find quality representation backed by court data.
+
+Why attorney choice matters
+
+According to FJC data covering 4.9 million cases across 94 federal districts, attorney quality is one of the strongest predictors of bankruptcy outcome. Within the same district, some attorneys achieve Chapter 13 completion rates above 50%, while others fall below 15%. The difference can mean tens of thousands of dollars in wasted fees and plan payments.
+
+Where to search
+
+State bar association -- Most state bars have a lawyer referral service that connects you with licensed bankruptcy attorneys in your area
+
+NACBA directory -- The National Association of Consumer Bankruptcy Attorneys (nacba.org) maintains a directory of member attorneys who specialize in consumer bankruptcy
+
+Legal aid organizations -- If you cannot afford an attorney, search at lawhelp.org for free bankruptcy representation
+
+Bar association websites -- Verify that any attorney you are considering is licensed and in good standing
+
+Referrals -- Ask friends, family, or other attorneys for recommendations
+
+Questions to ask during a consultation
+
+Most bankruptcy attorneys offer free initial consultations. Use them to evaluate quality:
+
+About their practice
+
+How long have you been practicing bankruptcy law?
+
+What percentage of your practice is bankruptcy vs. other areas?
+
+How many active bankruptcy cases do you handle at any given time?
+
+Will you personally handle my case, or will it be delegated to staff?
+
+About outcomes
+
+What is your Chapter 13 completion rate? (This is the single most important question)
+
+Do you check PACER for prior filings before filing a new case?
+
+How do you handle clients who fall behind on plan payments?
+
+What is your plan for my specific situation?
+
+About fees and process
+
+What is the total cost, including filing fee, attorney fee, and any additional charges?
+
+How much is due before filing vs. paid through the plan?
+
+How do you communicate with clients? (Phone, email, portal?)
+
+What is your response time for client questions?
+
+Red flags to watch for
+
+Court data reveals patterns associated with poor outcomes:
+
+Very high caseloads -- Attorneys handling hundreds of active cases may not give yours adequate attention
+
+Unusually low fees -- Below-market fees may indicate a high-volume practice that relies on quantity over quality
+
+No mention of eligibility screening -- An attorney who does not ask about prior filings may not check for discharge bars
+
+Pressure to file immediately -- Unless there is a genuine emergency (foreclosure, repossession), a good attorney takes time to prepare
+
+Filing bare petitions routinely -- Filing without complete schedules should be the exception, not the rule
+
+Verify credentials
+
+Bar status: Search your state bar's online directory to confirm the attorney is licensed and in good standing
+
+Disciplinary history: Check for any public discipline, sanctions, or malpractice complaints
+
+Court admission: Verify the attorney is admitted to practice in the specific bankruptcy court where your case will be filed
+
+The data advantage
+
+Federal court records on PACER are public. You can search for an attorney's name and see their cases, outcomes, and patterns directly at pcl.uscourts.gov or CourtListener.
+
+Related resources
+
+10 Warning Signs of a Bankruptcy Mill -- red flags to watch for
+
+What To Do If You Think You Hired a Mill -- practical next steps
+
+Why Do Chapter 13 Cases Fail? -- understand the risks
+
+This page provides general information based on publicly available federal court records. It does not constitute legal advice. Consult a licensed attorney for advice on your specific situation.
+
+Related Guides
+
+Open Bankruptcy Project
+
+Attorney Monitoring Dashboard
+
+Bankruptcy Malpractice Guide
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy malpractice and mill attorneys:
+
+11 U.S.C. Section 329
+Cornell LII -- attorney fee review
+
+11 U.S.C. Sections 526-528
+Cornell LII -- debt relief agency rules
+
+U.S. Trustee Program
+DOJ attorney oversight
+
+CFPB Complaint Tool
+File complaints
+
+State Bar Discipline Lookup
+ABA links
+
+Find Free Legal Aid
+Alternative to mill attorneys
+
+Bankruptcy Mill Research
+Google Scholar
+
+Related Guides
+
+Protect Yourself from Mills
+
+Free bankruptcy information guide
+
+bankruptcymill.com →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Bankruptcy Means Test Guide
+
+Find out if you qualify for Chapter 7
+
+meanstest.org →
+
+The Automatic Stay Explained
+
+How the automatic stay protects you from creditors
+
+automaticstay.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## How to Spot a Bankruptcy Mill: Warning Signs
+Source: https://bankruptcymill.org/how-to-spot.html
+
+Skip to main content
+
+bankruptcymill.org
+☰
+
+Home
+Warning Signs
+How to Spot
+Outcomes Data
+Questions to Ask
+Why Cases Fail
+What To Do
+Find a Lawyer
+
+How to Spot a Bankruptcy Mill
+
+Warning signs to look for before you hire a bankruptcy attorney
+
+A bankruptcy mill is a high-volume law firm that processes large numbers of cases with minimal individual attention. Not every busy attorney is a mill -- some handle many cases and still achieve strong outcomes. The difference is in the pattern: mills consistently produce worse results for their clients while profiting regardless of whether cases succeed.
+
+Here are the warning signs to watch for.
+
+Before You Hire
+
+1. Heavy, aggressive advertising
+
+TV commercials, radio ads, billboards, and social media blitzes are expensive. Firms that spend heavily on advertising need high case volume to cover those costs. That volume often comes at the expense of individual attention. Not every advertising firm is a mill, but most mills advertise aggressively.
+
+2. "No money down" Chapter 13 offers
+
+When a firm advertises no-money-down Chapter 13 bankruptcy, it means their fees come out of your bankruptcy plan payments. This creates a problematic incentive: the firm gets paid whether your case succeeds or not. They profit from filing the case, even if it is eventually dismissed and you get nothing.
+
+3. Minimal initial consultation
+
+A legitimate bankruptcy attorney spends 30 to 60 minutes reviewing your financial situation before recommending a course of action. If the "consultation" lasts 10 minutes, focuses mainly on getting you signed up, and does not involve detailed questions about your specific circumstances, that is a red flag.
+
+4. You never meet an attorney
+
+In many mills, clients interact primarily with non-attorney staff -- paralegals, legal assistants, or intake specialists. You may not meet the attorney whose name is on your case until the 341 meeting of creditors, or at all. While attorneys can and should delegate tasks, you should have meaningful contact with the lawyer handling your case.
+
+5. Pressure to file immediately
+
+Bankruptcy is a major decision. A good attorney helps you consider all options -- including not filing. If a firm pressures you to sign a retainer and file immediately without thorough analysis, they may be more interested in the fee than your outcome.
+
+After You Hire
+
+6. Cookie-cutter filings
+
+If your bankruptcy petition and schedules look like a template with your name plugged in, that is a problem. Errors in schedules -- wrong asset values, missing debts, incorrect exemptions -- are a hallmark of high-volume, low-attention practice.
+
+7. You cannot reach your attorney
+
+After filing, your attorney should be reachable for questions and concerns. If calls go unreturned for days or weeks, if you can never speak to the actual attorney, or if you are told your attorney is "in court all day" every time you call, the firm may be handling more cases than it can manage.
+
+8. No explanation of your plan or case
+
+You should understand your Chapter 13 plan: how much you are paying, for how long, and what debts are being addressed. If your attorney cannot explain your plan in plain English, or if you first see the plan at the 341 meeting, that is a serious red flag.
+
+What to Do If You Spot These Signs
+
+If you recognize several of these warning signs, you have options:
+
+Before hiring: Walk away. Consult a different attorney. Ask the right questions before signing anything.
+
+After hiring but before filing: Fire the attorney. You have no obligation to continue.
+
+After filing: You can fire your attorney and hire a new one (motion to substitute counsel), or if your case is a Chapter 13, you can request a fee review. See our what to do guide.
+
+For more on outcomes data showing the impact of attorney quality, see outcomes data. For specific questions to ask during a consultation, see questions to ask your attorney.
+
+Related Resources
+
+Bankruptcy malpractice guide
+
+How attorneys affect dismissal rates
+
+How to file bankruptcy -- step-by-step guide
+
+Not legal advice. This site provides general educational information about bankruptcy mills. It does not identify or name any specific attorney or firm. Consult a qualified attorney for your specific situation.
+
+Related Guides
+
+Open Bankruptcy Project
+
+Attorney Monitoring Dashboard
+
+If you believe your attorney's conduct harmed your bankruptcy case, you may have legal options. Learn about your rights at bankruptcymalpractice.org and section329.org (fee disgorgement).
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+♥ Sponsor
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+Sponsor this research
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy malpractice and mill attorneys:
+
+11 U.S.C. Section 329
+Cornell LII -- attorney fee review
+
+11 U.S.C. Sections 526-528
+Cornell LII -- debt relief agency rules
+
+U.S. Trustee Program
+DOJ attorney oversight
+
+CFPB Complaint Tool
+File complaints
+
+State Bar Discipline Lookup
+ABA links
+
+Find Free Legal Aid
+Alternative to mill attorneys
+
+Bankruptcy Mill Research
+Google Scholar
+
+Related Guides
+
+Protect Yourself from Mills
+
+Free bankruptcy information guide
+
+bankruptcymill.com →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Bankruptcy Means Test Guide
+
+Find out if you qualify for Chapter 7
+
+meanstest.org →
+
+The Automatic Stay Explained
+
+How the automatic stay protects you from creditors
+
+automaticstay.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Student Loan Forgiveness Programs -- studentloanforgive.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+1328f.com1328f.orgbankruptcymalpractice.orgdismissalrate.orghowtofilebankruptcy.org
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## What Is a Bankruptcy Mill?
+Source: https://bankruptcymill.org/
+
+🌐 Esta pagina esta disponible en Espanol
+
+Skip to main content
+
+bankruptcymill.org
+☰
+
+Home
+Warning Signs
+Why Cases Fail
+What To Do
+Red Flags
+Find a Lawyer
+Discharge Screener
+Research Platform
+
+Part of the Open Bankruptcy Project -- 75+ free domains, 2,000+ pages, $0 cost
+
+What Is a Bankruptcy Mill?
+
+A "bankruptcy mill" is a high-volume law firm that processes large numbers of bankruptcy cases with minimal individual attention to each client. These firms often advertise aggressively, charge fees through the bankruptcy plan, and delegate most work to non-attorney staff -- resulting in higher case failure rates and worse outcomes for the people they represent.
+
+Quick Answer
+
+A bankruptcy mill is a law firm that prioritizes volume over client outcomes. National data shows the worst-performing attorneys in Chapter 13 have dismissal rates 2-3x higher than their peers in the same courthouse. Clients pay full fees but receive minimal attention -- often never speaking to the attorney who signed their petition.
+
+Not sure about your attorney? Check the 10 warning signs or learn what to do if you suspect you hired one.
+
+Not all high-volume firms are mills
+
+Volume alone does not make a mill. Some attorneys handle many cases and still achieve strong outcomes. The defining characteristic of a bankruptcy mill is a pattern of poor results: cases that are dismissed at rates far above the court average, clients who pay for representation they never meaningfully receive, and a business model that profits regardless of whether the client's case succeeds.
+
+The term has no formal legal definition, but the pattern is well-documented in federal court data and recognized by judges, trustees, and bar associations across the country. If your bankruptcy attorney was negligent in handling your case, you may have legal options beyond simply changing lawyers.
+
+Common signs include being dropped by your bankruptcy attorney without explanation, or discovering that your bankruptcy lawyer won't return your calls -- both are hallmarks of mill-style representation where volume takes priority over individual client outcomes.
+
+What the data shows
+
+26.1%
+
+National Ch.13 dismissal rate (cases dismissed without discharge)
+
+60-67%
+
+Estimated Ch.13 failure rate when including all non-discharge outcomes
+
+4.9M
+
+Federal bankruptcy cases analyzed across all 94 districts
+
+2x-3x
+
+Dismissal rate gap between highest- and lowest-performing attorneys in the same court
+
+Data from the FJC Integrated Database and public PACER records.
+
+Guides on This Site
+
+10 Warning Signs of a Mill
+
+Never met the named attorney? Spoke only to "intake specialists"? These 10 data-backed red flags -- from high-pressure sales to zero court appearances -- reveal the pattern before your case is dismissed.
+
+Why Bankruptcy Cases Fail
+
+National data shows 26% of Chapter 13 cases end in dismissal. Missed payments are the leading cause, but inadequate attorney preparation -- wrong chapter selection, bad budgets, missing documents -- drives a disproportionate share at mill firms.
+
+What To Do If You Hired a Mill
+
+You have options: request your file, file a bar complaint, ask the court to review fees under Section 329, or switch attorneys mid-case. Step-by-step guide with templates and deadlines.
+
+Red Flags in Attorney Advertising
+
+"$0 down Chapter 13" and "free consultation" ads are not inherently bad -- but when combined with certain patterns in fee structures and staffing, they signal a mill. Learn to read between the lines.
+
+Data on Attorney Outcomes
+
+Analysis of 4.9 million federal bankruptcy cases reveals wide gaps in attorney performance within the same courthouse. Some attorneys dismiss 40%+ of cases while peers achieve under 15%.
+
+How to Find a Good Attorney
+
+Skip the Google Ads. Ask the right questions: How many cases do you personally handle? What is your Chapter 13 completion rate? Will you attend my 341 meeting? A hiring checklist that filters out mills.
+
+Questions to Ask Before Hiring
+
+15 specific questions to ask any bankruptcy attorney before signing a retainer. Mill attorneys struggle to answer most of these honestly.
+
+How to Spot a Mill in 5 Minutes
+
+A quick-check guide you can use during a free consultation. If three or more of these apply, walk away.
+
+Attorney Quality & Accountability
+
+When representation fails, the law provides remedies. These guides explain your rights.
+
+Bankruptcy Malpractice
+
+When attorney negligence causes your case to fail. Elements of a malpractice claim, statutes of limitations, and how to find a legal malpractice attorney.
+
+Fee Disgorgement (Section 329)
+
+The court can order your attorney to return fees if they were excessive or if the attorney failed to disclose the fee arrangement. How to file a 329 motion.
+
+Dismissal Rate Data
+
+National dismissal rate statistics by district, chapter, and attorney. See how your court compares to the national average.
+
+Fired by Your Lawyer?
+
+What to do when your bankruptcy attorney withdraws. Your rights, the timeline, and how to protect your case from dismissal.
+
+Related Topics
+
+Attorney Malpractice Guide
+Dismissal Rate Statistics
+Fee Disgorgement (Section 329)
+How to File Bankruptcy
+
+Related Guides
+
+Open Bankruptcy Project
+
+Attorney Monitoring Dashboard
+
+🆕 New Resources
+
+📍 Bankruptcy guides for all 50 states
+
+🌎 Guias en Espanol
+
+📖 61-term bankruptcy glossary
+
+🧮 Full Part 1 & Part 2 means test calculator
+
+📰 Latest bankruptcy data analysis
+
+Related Resources
+
+Pro Se Bankruptcy Guide -- Resources for people filing bankruptcy without an attorney
+
+The 341 Meeting -- What to expect at your meeting of creditors
+
+The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+
+If you believe your attorney's conduct harmed your bankruptcy case, you may have legal options. Learn about your rights at bankruptcymalpractice.org and section329.org (fee disgorgement).
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+462+ Court Documents Freed from PACER
+
+We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+
+$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy malpractice and mill attorneys:
+
+11 U.S.C. Section 329
+Cornell LII -- attorney fee review
+
+11 U.S.C. Sections 526-528
+Cornell LII -- debt relief agency rules
+
+U.S. Trustee Program
+DOJ attorney oversight
+
+CFPB Complaint Tool
+File complaints
+
+State Bar Discipline Lookup
+ABA links
+
+Find Free Legal Aid
+Alternative to mill attorneys
+
+Bankruptcy Mill Research
+Google Scholar
+
+Related Guides
+
+Protect Yourself from Mills
+
+Free bankruptcy information guide
+
+bankruptcymill.com →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Bankruptcy Means Test Guide
+
+Find out if you qualify for Chapter 7
+
+meanstest.org →
+
+The Automatic Stay Explained
+
+How the automatic stay protects you from creditors
+
+automaticstay.org →
+
+Your Next Questions
+
+Real users ask these next -- we built the answers.
+
+Chapter 7 vs Chapter 13
+
+Understand your case before hiring
+
+chapter7vs13.org →
+
+How Much Does It Cost?
+
+What attorneys should charge by chapter and state
+
+howmuchdoesbankruptcycost.com →
+
+File Without a Lawyer?
+
+When pro se makes sense and when it does not
+
+filebankruptcywithoutlawyer.com →
+
+How to Find a Good Attorney
+
+Data-driven guide to evaluating bankruptcy lawyers
+
+1328f.com →
+
+📖 Bankruptcy Glossary -- 61 terms explained
+
+Filing in Your State?
+
+Exemptions vary dramatically by state. Check what you can protect.
+
+Browse Your State's Exemptions →
+
+Have a Question?
+
+Open Bankruptcy Project provides free educational information. We are not a law firm.
+Nothing on this site constitutes legal advice. For advice about your specific situation,
+consult a licensed attorney.
+
+Select your state...
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+American Samoa
+Guam
+Northern Mariana Islands
+Puerto Rico
+U.S. Virgin Islands
+
+I understand this is educational information, not legal advice.
+
+Submit Question
+
+Thank you! We typically respond within one business day.
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Get Bankruptcy Updates
+
+Free updates from the Open Bankruptcy Project. No spam, unsubscribe anytime.
+
+Subscribe
+
+You're subscribed. Thank you!
+
+Privacy policy
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+automaticstay.org
+meanstest.org
+341meeting.org
+whatischapter7.com
+dischargebar.org
+serialfiler.org
+dismissedbankruptcy.org
+voluntarypetition.org
+♥ Sponsor
+GitHub
+
+Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## 10 Questions to Ask a Bankruptcy Attorney Before Hiring -- Bankruptcy Mill
+Source: https://bankruptcymill.org/questions-to-ask.html
+
+Skip to main content
+
+bankruptcymill.org
+☰
+
+Home
+Warning Signs
+How to Spot
+Outcomes Data
+Questions to Ask
+Why Cases Fail
+What To Do
+Find a Lawyer
+
+10 Questions to Ask a Bankruptcy Attorney Before Hiring
+
+The right questions separate competent attorneys from mills
+
+A good bankruptcy attorney will welcome these questions. A mill will deflect, rush past them, or give vague answers. Pay attention not just to what they say, but to how they respond.
+
+Question 1
+
+How many active bankruptcy cases do you personally handle right now?
+
+Good answer: A specific number, typically 30-80 for a solo or small firm. They can tell you without hesitation.
+
+Concerning answer: "I don't know offhand," "hundreds," or a deflection to firm-wide numbers rather than their personal caseload.
+
+Question 2
+
+What percentage of your Chapter 13 clients complete their plan and receive a discharge?
+
+Good answer: A specific percentage, ideally above the district average. They track this because it matters to them.
+
+Concerning answer: They do not know, they have never tracked it, or they change the subject.
+
+Question 3
+
+Will I work directly with you, or primarily with your staff?
+
+Good answer: They explain the team structure honestly -- some delegation is normal, but you should have direct access to the attorney for important questions and decisions.
+
+Concerning answer: You will only interact with paralegals or intake staff after signing the retainer.
+
+Question 4
+
+How will we communicate after filing? How quickly do you return calls?
+
+Good answer: A specific commitment -- "within 24-48 hours" or "my paralegal responds same day and I follow up within a day."
+
+Concerning answer: Vague promises or no clear communication protocol.
+
+Question 5
+
+What exactly is included in your fee? What costs extra?
+
+Good answer: A clear breakdown of what the fee covers (preparation, filing, 341 meeting, plan confirmation) and what might cost extra (adversary proceedings, modifications, post-confirmation work).
+
+Concerning answer: Vague or incomplete fee explanation, or surprise charges later.
+
+Question 6
+
+When will I see my plan before it is filed with the court?
+
+Good answer: You will review and approve the plan before filing. The attorney walks you through it and explains each provision.
+
+Concerning answer: You first see the plan at the 341 meeting, or the attorney tells you not to worry about it.
+
+Question 7
+
+Have you handled cases similar to mine before?
+
+Good answer: They can describe similar cases and outcomes. They understand the specific issues in your case (business ownership, real estate, tax debt, etc.).
+
+Concerning answer: They treat every case the same regardless of complexity.
+
+Question 8
+
+Are there alternatives to bankruptcy I should consider?
+
+Good answer: They discuss alternatives like debt negotiation, credit counseling, or simply waiting. A good attorney will tell you if bankruptcy is not the right option.
+
+Concerning answer: Bankruptcy is presented as the only option with no discussion of alternatives.
+
+Question 9
+
+Can I speak with or get a reference from a former client?
+
+Good answer: They can provide references or point you to online reviews from verified clients.
+
+Concerning answer: They refuse or have no client testimonials available.
+
+Question 10
+
+What happens if my case runs into problems after filing?
+
+Good answer: They explain their process for handling motions to dismiss, plan modifications, and post-filing issues. They are available for the life of the case.
+
+Concerning answer: They imply their job ends at filing, or that post-filing issues are not covered by the fee.
+
+The Meta-Question
+
+Beyond the specific answers, pay attention to the consultation itself. A good attorney:
+
+Spends at least 30 minutes understanding your situation
+
+Asks you detailed questions about your finances, not just your debts
+
+Explains multiple options, not just one path
+
+Does not pressure you to sign immediately
+
+Makes you feel informed, not sold to
+
+For more on recognizing mills, see how to spot a bankruptcy mill and what the outcomes data shows.
+
+Not legal advice. This site provides general educational information. It does not identify or name any specific attorney or firm. Consult a qualified attorney for your specific situation.
+
+Related Guides
+
+Open Bankruptcy Project
+
+Attorney Monitoring Dashboard
+
+Section 329 Fee Disgorgement
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+♥ Sponsor
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+Sponsor this research
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy malpractice and mill attorneys:
+
+11 U.S.C. Section 329
+Cornell LII -- attorney fee review
+
+11 U.S.C. Sections 526-528
+Cornell LII -- debt relief agency rules
+
+U.S. Trustee Program
+DOJ attorney oversight
+
+CFPB Complaint Tool
+File complaints
+
+State Bar Discipline Lookup
+ABA links
+
+Find Free Legal Aid
+Alternative to mill attorneys
+
+Bankruptcy Mill Research
+Google Scholar
+
+Related Guides
+
+Protect Yourself from Mills
+
+Free bankruptcy information guide
+
+bankruptcymill.com →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Bankruptcy Means Test Guide
+
+Find out if you qualify for Chapter 7
+
+meanstest.org →
+
+The Automatic Stay Explained
+
+How the automatic stay protects you from creditors
+
+automaticstay.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+1328f.com1328f.orgbankruptcymalpractice.orgdismissalrate.orghowtofilebankruptcy.org
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## 10 Warning Signs You Hired a Bankruptcy Mill
+Source: https://bankruptcymill.org/warning-signs.html
+
+Skip to main content
+
+bankruptcymill.org
+☰
+
+Home
+Warning Signs
+Why Cases Fail
+What To Do
+Find a Lawyer
+
+10 Warning Signs You Hired a Bankruptcy Mill
+
+How to tell if your bankruptcy attorney is running a high-volume practice that puts profits over outcomes.
+
+What the data shows
+
+Federal court records covering 4.9 million bankruptcy cases reveal dramatic variation in attorney outcomes. Within the same district, some attorneys achieve Chapter 13 completion rates above 50%, while others fall below 15%. The difference often comes down to the level of individual attention each case receives.
+
+1. "No money down" advertising
+
+This is the most recognizable mill indicator. The attorney charges fees through the bankruptcy plan rather than requiring payment upfront. While this makes bankruptcy accessible to more people, it also creates a perverse incentive: the attorney gets paid whether or not the case succeeds. If the case is dismissed, the attorney has already collected partial fees through the trustee, but the client has no discharge and no refund.
+
+2. Extremely high caseloads
+
+Some attorneys handle hundreds of active cases simultaneously. Court data shows that attorneys with the highest caseloads tend to have the highest dismissal rates. There is a limit to how many cases one attorney can competently manage. When an attorney is juggling 300+ active cases, yours is unlikely to get the attention it needs.
+
+3. You never actually meet the attorney
+
+You signed a retainer with an attorney whose name is on the door, but every interaction is with a paralegal or legal assistant. The attorney may sign filings but has never reviewed your specific situation. In some mills, the named attorney has never read the petition filed under their bar number.
+
+4. All contact is with paralegals or intake staff
+
+Related to the point above, but distinct. Mills often use non-attorney staff for everything: intake, document preparation, client communication, and even substantive legal questions. While paralegals play an important role in any law practice, an attorney should be making the key decisions about your case strategy.
+
+5. Cookie-cutter petitions with errors
+
+Mills process cases on templates. When the template does not match your situation, errors appear in the petition -- wrong income figures, missing assets, incorrect exemptions, schedules that do not add up. These errors can lead to trustee objections, delays, or dismissal.
+
+6. Missed deadlines and document failures
+
+Court data shows that cases filed as bare petitions (without complete schedules) have significantly higher dismissal rates. Mills often file first and sort out the details later -- or never. If your attorney filed your case without complete schedules and has not followed up, that is a red flag.
+
+7. High dismissal rates relative to peers
+
+This is the most objective indicator. Every attorney's case outcomes are a matter of public record through PACER and CourtListener. When an attorney's dismissal rate is significantly above the district average, it suggests a systemic problem -- not bad luck.
+
+The cost of a dismissed case
+
+A failed Chapter 13 case typically costs the debtor $3,500-$5,000 or more in attorney fees and filing fees, plus all plan payments made before dismissal. None of this results in debt relief. The debtor ends up worse off than before filing.
+
+8. No one returns your calls
+
+Communication breakdowns are one of the top complaints against bankruptcy mills. If you cannot reach your attorney -- or anyone at the firm -- for days or weeks at a time, your case may not be getting the attention it needs. Lack of communication is also the most common basis for bar complaints against bankruptcy attorneys.
+
+9. Fee structure that is unclear or constantly changing
+
+A quality attorney explains the total cost upfront: attorney fees, filing fees, credit counseling fees, and any additional charges. Mills may quote a low initial price and then add charges, or the fee structure may be buried in fine print. If you do not understand what you are paying and what you are getting, ask.
+
+10. Payment plans that benefit the firm, not the client
+
+Some mills structure their fees so that the firm gets paid first through the Chapter 13 plan, before unsecured creditors receive anything. While attorney fees through the plan are normal and court-approved, the structure should not create an incentive for the firm to file cases that are unlikely to succeed. If the firm profits regardless of your outcome, the incentive alignment is wrong.
+
+Important nuance
+
+Not every high-volume firm is a mill, and not every small firm provides quality representation. The key question is: does the attorney know your case, and are their clients' cases succeeding at a reasonable rate? Volume alone does not make a mill. Bad outcomes do.
+
+What to do next
+
+What to do if you think you hired a mill -- practical steps
+
+How to find a quality bankruptcy lawyer -- what to look for
+
+Why Chapter 13 cases fail -- understand the risks
+
+This page provides general information based on publicly available federal court records. It does not constitute legal advice. Consult a licensed attorney for advice on your specific situation.
+
+Related Guides
+
+Open Bankruptcy Project
+
+Attorney Monitoring Dashboard
+
+Bankruptcy Malpractice Guide
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy malpractice and mill attorneys:
+
+11 U.S.C. Section 329
+Cornell LII -- attorney fee review
+
+11 U.S.C. Sections 526-528
+Cornell LII -- debt relief agency rules
+
+U.S. Trustee Program
+DOJ attorney oversight
+
+CFPB Complaint Tool
+File complaints
+
+State Bar Discipline Lookup
+ABA links
+
+Find Free Legal Aid
+Alternative to mill attorneys
+
+Bankruptcy Mill Research
+Google Scholar
+
+Related Guides
+
+Protect Yourself from Mills
+
+Free bankruptcy information guide
+
+bankruptcymill.com →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Bankruptcy Means Test Guide
+
+Find out if you qualify for Chapter 7
+
+meanstest.org →
+
+The Automatic Stay Explained
+
+How the automatic stay protects you from creditors
+
+automaticstay.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Student Loan Forgiveness Programs -- studentloanforgive.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## What To Do If You Think You Hired a Bankruptcy Mill
+Source: https://bankruptcymill.org/what-to-do.html
+
+Skip to main content
+
+bankruptcymill.org
+☰
+
+Home
+Warning Signs
+Why Cases Fail
+What To Do
+Find a Lawyer
+
+What To Do If You Think You Hired a Bankruptcy Mill
+
+Practical steps for debtors who suspect their bankruptcy attorney is providing inadequate representation.
+
+First things first
+
+If you are currently in an active bankruptcy case and believe your attorney is not doing their job, do not ignore it. A dismissed case costs you money and solves nothing. The sooner you act, the more options you have.
+
+Step 1: Check their record
+
+Before taking action, verify your concern with data. Search your attorney's name on CourtListener or PACER to see all of their bankruptcy cases and outcomes. Compare their dismissal rate to the district average. If their rate is significantly above the baseline, your concern may be well-founded.
+
+Step 2: Document everything
+
+Keep records of:
+
+All communications (emails, texts, call logs) with the firm
+
+Dates you tried to contact them and received no response
+
+Any errors you have noticed in your filed documents
+
+Promises made during the initial consultation
+
+Your fee agreement and all payments made
+
+Any court notices or deadlines you received directly
+
+Step 3: Communicate your concerns in writing
+
+Send your attorney a written communication (email or letter) clearly stating your concerns. Be specific: missed deadlines, unanswered calls, document errors, or lack of communication. This creates a record and may prompt action. Keep it factual and professional.
+
+Step 4: Consider new counsel
+
+You have the right to change attorneys during a bankruptcy case. A new attorney can file a substitution of counsel with the court. Before making the switch:
+
+Consult with the prospective new attorney about your case status
+
+Understand the additional cost -- you may owe fees to both attorneys
+
+Request your complete case file from the current attorney
+
+Act before a critical deadline is missed, not after
+
+Timing matters
+
+If your case is at risk of dismissal due to your attorney's inaction, switching counsel quickly is critical. A new attorney needs time to review the file and respond to any pending motions or deadlines.
+
+Step 5: File a bar complaint
+
+If your attorney's conduct rises to the level of professional misconduct -- such as failure to communicate, failure to act competently, misrepresentation of fees, or abandonment of your case -- you can file a complaint with the state bar:
+
+Find your state bar's disciplinary office: Search "[your state] attorney discipline complaint" to find the correct office and form
+
+Be specific: State what the attorney did or failed to do, when it happened, and what harm resulted
+
+Include documentation: Attach copies of your fee agreement, relevant communications, and court documents showing the issue
+
+Follow up: Bar complaints can take months to process. Follow up periodically on the status
+
+Step 6: Contact the U.S. Trustee
+
+The U.S. Trustee's office monitors the bankruptcy system, including attorney conduct. If you believe an attorney is systematically providing deficient representation -- filing cases they know will fail, charging fees for work not performed, or operating a mill that harms consumers -- the U.S. Trustee can investigate.
+
+Find your regional U.S. Trustee at justice.gov/ust
+
+You can file a complaint online or by mail
+
+The U.S. Trustee can seek sanctions, fee disgorgement, or referral for further action
+
+Step 7: Contact legal aid
+
+If you cannot afford a new attorney, legal aid organizations may be able to help:
+
+LawHelp.org -- Find free legal aid in your area
+
+Legal Services Corporation -- Federally funded legal aid
+
+Your local bar association's pro bono program
+
+Law school clinics that handle bankruptcy cases
+
+You have rights
+
+As a bankruptcy debtor, you have the right to competent representation, clear communication about your case, an accounting of fees charged, and access to your case file. These are not optional courtesies -- they are professional obligations your attorney owes you under the rules of professional conduct.
+
+Step 8: Protect yourself going forward
+
+Monitor your case directly -- You can access your own case on PACER and see every filing, deadline, and order
+
+Attend hearings -- Even if your attorney appears on your behalf, attending hearings keeps you informed
+
+Keep copies of everything -- Do not rely solely on your attorney to maintain your case file
+
+Ask questions -- If you do not understand something in your case, ask. If your attorney will not explain, that tells you something
+
+Related resources
+
+10 Warning Signs of a Bankruptcy Mill
+
+How to Find a Bankruptcy Lawyer
+
+Why Do Chapter 13 Cases Fail?
+
+This page provides general information based on publicly available federal court records. It does not constitute legal advice. Consult a licensed attorney for advice on your specific situation.
+
+Related Guides
+
+Open Bankruptcy Project
+
+Attorney Monitoring Dashboard
+
+Bankruptcy Malpractice Guide
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy malpractice and mill attorneys:
+
+11 U.S.C. Section 329
+Cornell LII -- attorney fee review
+
+11 U.S.C. Sections 526-528
+Cornell LII -- debt relief agency rules
+
+U.S. Trustee Program
+DOJ attorney oversight
+
+CFPB Complaint Tool
+File complaints
+
+State Bar Discipline Lookup
+ABA links
+
+Find Free Legal Aid
+Alternative to mill attorneys
+
+Bankruptcy Mill Research
+Google Scholar
+
+Related Guides
+
+Protect Yourself from Mills
+
+Free bankruptcy information guide
+
+bankruptcymill.com →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Bankruptcy Means Test Guide
+
+Find out if you qualify for Chapter 7
+
+meanstest.org →
+
+The Automatic Stay Explained
+
+How the automatic stay protects you from creditors
+
+automaticstay.org →
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Why Do Chapter 13 Cases Fail? -- Bankruptcy Mill
+Source: https://bankruptcymill.org/why-cases-fail.html
+
+Skip to main content
+
+bankruptcymill.org
+☰
+
+Home
+Warning Signs
+Why Cases Fail
+What To Do
+Find a Lawyer
+
+Why Do Chapter 13 Cases Fail?
+
+About 60-67% of Chapter 13 cases end in dismissal. Understanding why can help you prepare.
+
+The scale of the problem
+
+According to FJC data covering 4.9 million cases across 94 federal districts, the majority of Chapter 13 bankruptcy cases do not result in a discharge. The national failure rate is approximately 60-67%, meaning roughly two out of every three filers do not complete their repayment plans.
+
+Leading causes of Chapter 13 failure
+
+1. Inability to make plan payments
+
+The most common cause. Chapter 13 requires 36 to 60 months of consistent monthly payments. Over that period, financial disruptions are almost inevitable: job loss, medical emergencies, car repairs, divorce, or other expenses. When payments are missed, the trustee files a motion to dismiss.
+
+2. Failure to file required documents
+
+Courts require schedules of assets and liabilities, statements of financial affairs, tax returns, pay stubs, and other documents. When these are not filed within the court's deadlines, the case is dismissed. This is especially common with bare petitions that are never completed.
+
+3. Unrealistic plan proposals
+
+Some plans are based on optimistic income projections or underestimate expenses. When the debtor cannot actually afford the proposed payment, the plan fails. This can be a sign of inadequate pre-filing analysis by the attorney.
+
+4. Failure to attend the 341 meeting
+
+The 341 meeting of creditors is mandatory. Failure to appear results in dismissal. Some debtors miss the meeting due to lack of transportation, work conflicts, or failure to receive notice.
+
+5. Life changes during the plan period
+
+Over 3-5 years, circumstances change. Divorce, disability, relocation, or the death of a co-debtor can make plan completion impossible. While plan modifications are available, they require additional court proceedings and attorney fees.
+
+6. Inadequate legal representation
+
+Court data reveals significant variation in completion rates among attorneys within the same district. Some attorneys achieve completion rates above 50%, while others fall below 15%. This variation suggests that the quality of legal representation plays a meaningful role in case outcomes.
+
+The cost of failure
+
+A failed Chapter 13 case typically costs the debtor $3,500-$5,000 or more in attorney fees and filing fees, plus all plan payments made before dismissal. None of this results in debt relief. The debtor ends up worse off than before filing -- with less money and the same debts.
+
+Early warning signs
+
+Federal court records show patterns that correlate with higher failure rates:
+
+Bare petition filing -- Cases filed without complete schedules have higher dismissal rates
+
+Prior bankruptcy filings -- Repeat filers have lower completion rates than first-time filers
+
+Early payment default -- Missing payments in the first 6 months strongly predicts dismissal
+
+No plan confirmation -- Cases where the plan is never confirmed rarely reach discharge
+
+District-level variation
+
+Failure rates vary dramatically by district. Some courts see dismissal rates above 75%, while others stay below 50%. These differences reflect variations in local legal culture, trustee practices, attorney quality, and judicial approach. Check your district's specific data through the FJC Integrated Database or public PACER records.
+
+What you can do to improve your chances
+
+Be honest about your budget -- Build in a realistic cushion for unexpected expenses
+
+Choose your attorney carefully -- Ask about their Chapter 13 completion rate during consultations
+
+File complete petitions -- Avoid bare petitions unless there is a genuine emergency
+
+Communicate with your trustee -- If you anticipate missing a payment, notify the trustee early
+
+Consider Chapter 7 -- If you qualify, Chapter 7 has a discharge rate above 95% and takes only 3-4 months
+
+Related resources
+
+10 Warning Signs of a Bankruptcy Mill
+
+How to Find a Bankruptcy Lawyer
+
+What To Do If You Think You Hired a Mill
+
+This page provides general information based on publicly available federal court records. It does not constitute legal advice. Consult a licensed attorney for advice on your specific situation.
+
+Related Guides
+
+Open Bankruptcy Project
+
+Attorney Monitoring Dashboard
+
+Bankruptcy Malpractice Guide
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy malpractice and mill attorneys:
+
+11 U.S.C. Section 329
+Cornell LII -- attorney fee review
+
+11 U.S.C. Sections 526-528
+Cornell LII -- debt relief agency rules
+
+U.S. Trustee Program
+DOJ attorney oversight
+
+CFPB Complaint Tool
+File complaints
+
+State Bar Discipline Lookup
+ABA links
+
+Find Free Legal Aid
+Alternative to mill attorneys
+
+Bankruptcy Mill Research
+Google Scholar
+
+Related Guides
+
+Protect Yourself from Mills
+
+Free bankruptcy information guide
+
+bankruptcymill.com →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Bankruptcy Means Test Guide
+
+Find out if you qualify for Chapter 7
+
+meanstest.org →
+
+The Automatic Stay Explained
+
+How the automatic stay protects you from creditors
+
+automaticstay.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Red Flags Your Bankruptcy Attorney May Be a Mill -- 15 Warning Signs -- Bankruptcy Mill
+Source: https://bankruptcymill.org/red-flags.html
+
+Skip to content
+
+bankruptcymill.org
+☰
+
+Home
+Warning Signs
+Red Flags
+How to Spot
+What to Do
+Questions to Ask
+Why Cases Fail
+
+Part of the Open Bankruptcy Project -- 100+ free domains, 2,000+ pages, $0 cost
+
+Red Flags Your Bankruptcy Attorney May Be a Mill
+
+15 warning signs of high-volume, low-quality bankruptcy representation -- and what each one means for your case.
+
+Why this matters
+
+Bankruptcy mill clients face dismissal rates 2-4x higher than clients of attorneys who maintain reasonable caseloads. A dismissed case means lost filing fees, wasted time, and potentially losing the protection of the automatic stay when you need it most.
+
+The 15 Red Flags
+
+1
+You Never Meet the Attorney
+
+A paralegal or intake specialist handles your entire case from start to finish. You signed a retainer with an attorney you have never spoken to. The attorney of record may not know your name, your financial situation, or the details of your case. Under Model Rule 1.1, attorneys must provide competent representation -- which requires actually knowing your case.
+
+2
+Paralegals Do Everything
+
+Non-attorneys prepare your schedules, file your petitions, and communicate with the trustee on your behalf. While paralegals can assist under attorney supervision, the attorney must exercise independent professional judgment. When paralegals make legal decisions without oversight, it constitutes the unauthorized practice of law (Model Rule 5.3).
+
+3
+Cookie-Cutter Plans with No Customization
+
+Your Chapter 13 plan looks identical to every other plan the firm files. No analysis of your specific debts, income fluctuations, or asset protection strategy. Template plans miss opportunities for lien stripping, cramdown valuations, and priority claim challenges. Each case is different -- your plan should reflect that.
+
+4
+Missed Deadlines and Late Filings
+
+Documents are filed at the last minute or after the deadline. Pay advices are submitted late. Plan amendments miss confirmation deadlines. In bankruptcy, missed deadlines can result in case dismissal, loss of the automatic stay, or waiver of important rights. An overwhelmed attorney who misses deadlines across multiple cases is a major red flag.
+
+5
+No Return Calls for Days or Weeks
+
+You call the office and leave messages that go unreturned for a week or more. Emails sit in an inbox with no response. Model Rule 1.4 requires attorneys to keep clients reasonably informed and promptly comply with reasonable requests for information. Persistent non-communication is an ethical violation, not just bad customer service. See what to do when your lawyer will not call back.
+
+6
+Assembly-Line 341 Meeting Prep
+
+You receive no preparation for your 341 meeting of creditors. The attorney meets you in the hallway five minutes before. You do not know what questions the trustee will ask. Adequate 341 preparation is fundamental to competent bankruptcy representation.
+
+7
+High-Pressure Sales Tactics During the Initial Consultation
+
+You are pressured to sign a retainer immediately. "We can file today." No discussion of whether bankruptcy is the right option for your situation. No analysis of Chapter 7 versus Chapter 13 trade-offs. A responsible attorney explores all options before recommending a filing strategy.
+
+8
+Advertising That Promises Specific Outcomes
+
+"Guaranteed discharge." "Wipe out all your debt." "Stop foreclosure today." Ethical rules prohibit attorneys from making promises about results (Model Rule 7.1). Bankruptcy outcomes depend on your specific circumstances, the trustee, and the court. Any firm promising guaranteed results is prioritizing client acquisition over honesty.
+
+9
+Unusually Low Fees -- Then Surprise Add-Ons
+
+The quoted fee is dramatically lower than other firms. After you sign, additional charges appear: filing amendments, trustee responses, motion practice, "case monitoring." The initial low price was a loss leader to get you in the door. The total cost often exceeds what a quality attorney would have charged upfront.
+
+10
+No Review of Your Documents Before Filing
+
+You hand over pay stubs, tax returns, and bank statements, but nobody walks through the numbers with you. Schedules are filed with errors you would have caught if anyone had reviewed them with you. Inaccurate schedules can lead to dismissal, denial of discharge, or even fraud allegations under 18 U.S.C. 152.
+
+11
+Your Attorney Sends a Different Lawyer to Hearings
+
+The attorney you hired never appears in court on your case. A different attorney from the firm -- one you have never met -- shows up for your confirmation hearing. That attorney has not reviewed your file and cannot answer the judge's questions about your specific plan. This is a hallmark of the mill model.
+
+12
+No Explanation of the Means Test Results
+
+You never see your means test calculation. Nobody explains whether you are above or below median income, what deductions were claimed, or how your disposable income was calculated. The means test determines your entire case strategy -- you should understand it.
+
+13
+Multiple Offices Across a Wide Geographic Area
+
+The firm advertises offices in five or more cities. Each "office" is a rented conference room or virtual address. The attorney travels a circuit, spending one day per week in each location. This model makes it physically impossible to provide attentive representation to every client across every jurisdiction.
+
+14
+The Firm Does Not Handle Post-Filing Issues
+
+After your case is filed, you are told to call the trustee directly with questions. The firm does not respond to motions for relief from stay. Creditor objections go unanswered. Post-filing representation is part of what you paid for -- a firm that disappears after filing is not fulfilling its obligations.
+
+15
+A Pattern of Dismissed Cases in Public Records
+
+PACER and court records show the firm has an unusually high rate of dismissed cases. Nationally, Chapter 13 dismissal rates average around 33-40%. Firms with rates above 50-60% may be filing cases without adequate preparation. Federal court data is public -- you can look this up before you hire.
+
+Critical
+
+Any single red flag may have an innocent explanation. But if you see three or more of these signs, your case may be at risk. Document everything, request your client file, and consult with another bankruptcy attorney for a second opinion.
+
+What to Do Next
+
+Document the problems. Dates, times, names, what was said or not said. Keep copies of all emails and written communications.
+
+Request your client file. You are entitled to every document in your file. Put the request in writing.
+
+Get a second opinion. Consult with another bankruptcy attorney. Many offer free or low-cost consultations.
+
+File a bar complaint if warranted. Your state bar association investigates attorney misconduct. This is free and confidential.
+
+Object to fees. In bankruptcy, the court must approve attorney fees. You can file an objection if fees are unreasonable or services were inadequate.
+
+Contact the trustee. The bankruptcy trustee assigned to your case has an interest in your case proceeding properly.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+
+Free Discharge Screener
+
+Related Pages on This Topic
+
+What to Do When Your Lawyer Won't Call Back
+Bankruptcy Lawyer Reviews
+Means Test Vocabulary
+Student Loan Bankruptcy Terms
+Your Rights Against Debt Buyers
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+♥ Sponsor
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Automatic Stay
+Means Test
+Brunner Test
+Debt Buyer Rights
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Bankruptcy Mill FAQ -- How to Spot and Avoid High-Volume Firms
+Source: https://bankruptcymill.org/frequently-asked-questions.html
+
+Skip to main content
+
+bankruptcymill.org
+
+Home
+FAQ
+Espanol
+
+Bankruptcy Mill FAQ -- How to Spot and Avoid High-Volume Firms
+
+Common questions about bankruptcy mills, warning signs of high-volume firms, and how to protect yourself from inadequate legal representation in bankruptcy.
+
+What is a bankruptcy mill?
+
+A bankruptcy mill is a high-volume law firm that files hundreds or thousands of bankruptcy cases per year, often with assembly-line processing. These firms prioritize quantity over quality, frequently assigning most case work to paralegals or non-attorney staff while the attorney spends minimal time on each case.
+
+How do I know if my lawyer is running a bankruptcy mill?
+
+Warning signs include: you rarely or never speak to an actual attorney, your calls go unreturned for days, a paralegal handles most of your case, the firm advertises heavily on TV or radio with 'no money down' offers, and your case seems to be handled identically to everyone else's.
+
+Are bankruptcy mills illegal?
+
+Bankruptcy mills are not explicitly illegal, but many of their practices violate professional ethics rules and bankruptcy law. Inadequate supervision, unauthorized practice of law by staff, and fee-splitting with non-lawyers can result in disciplinary action, fee disgorgement, and sanctions.
+
+What problems do bankruptcy mills cause for clients?
+
+Common problems include missed deadlines, inaccurate petitions, failure to identify exemptions, cases dismissed for lack of prosecution, incorrect chapter filings, and failure to attend hearings. These errors can result in loss of property, denied discharge, or case dismissal.
+
+How many cases does a typical bankruptcy mill handle?
+
+There is no fixed threshold, but firms filing more than 200-300 cases per year per attorney are generally considered high-volume. Some mills have single attorneys responsible for 500+ cases annually, making meaningful individual representation impossible.
+
+Can I fire my bankruptcy lawyer if I suspect a mill?
+
+Yes. You have the right to fire your bankruptcy attorney at any time. File a substitution of counsel with the court if you hire a new attorney, or a notice of appearance if you proceed pro se. You may be entitled to a refund of unearned fees.
+
+What is fee disgorgement in bankruptcy?
+
+Fee disgorgement is when a bankruptcy court orders an attorney to return fees already paid because the services were inadequate, the fees were unreasonable, or the attorney failed to comply with disclosure requirements. Courts can order disgorgement under 11 U.S.C. Section 329(b).
+
+Do bankruptcy mills have higher case failure rates?
+
+Research shows that high-volume firms tend to have higher rates of case dismissal, lower plan completion rates in Chapter 13, and more instances of refiled cases. Empirical data from federal court records confirms these patterns across multiple districts.
+
+What should I look for in a bankruptcy attorney?
+
+Look for an attorney who meets with you personally, reviews your specific financial situation, explains which chapter is best for you, answers your questions directly, provides a written fee agreement, and has experience in your local bankruptcy court.
+
+Can I report a bankruptcy mill?
+
+Yes. You can file complaints with your state bar association, the U.S. Trustee's office, the bankruptcy court, and your state attorney general. The U.S. Trustee has authority to investigate attorney misconduct and seek sanctions under 11 U.S.C. Section 707(b)(4).
+
+What is the 'no money down' bankruptcy scam?
+
+Some firms advertise 'no money down Chapter 13' to attract clients, then collect their fees through the bankruptcy plan. While legal in some courts, this model incentivizes mills to file cases regardless of whether bankruptcy is appropriate for the client.
+
+How do I check if my bankruptcy lawyer has been disciplined?
+
+Check your state bar association's online directory, which typically lists any public disciplinary actions. You can also search PACER for cases involving the attorney and check the U.S. Trustee's website for enforcement actions.
+
+What is unauthorized practice of law in a bankruptcy mill?
+
+When non-attorneys (paralegals, petition preparers, or intake staff) provide legal advice, select which bankruptcy chapter to file, determine which debts to list, or choose exemptions, they are engaging in unauthorized practice of law. Only a licensed attorney should make these decisions.
+
+Can a bankruptcy mill's errors be fixed after filing?
+
+Some errors can be fixed through amendments to schedules, motions to reopen, or refiling. However, some damage is permanent -- a missed deadline for objecting to a claim, a wrongly surrendered asset, or a dismissed case that triggers filing bars under Section 109(g).
+
+What data shows bankruptcy mills hurt clients?
+
+Federal Court Integrated Database (FJC) data shows statistical differences in outcomes between high-volume and low-volume firms, including higher dismissal rates, longer case durations, and more frequent refiling. The Open Bankruptcy Project analyzes this data across 94 federal districts.
+
+More Resources on This Site
+
+Red Flags
+
+How to Spot a Mill
+
+Questions to Ask
+
+What to Do
+
+Why Cases Fail
+
+Data on Outcomes
+
+Related Resources
+
+Fired by Your Lawyer
+
+Lawyer Won't Call Back
+
+Pro Se Filing
+
+Open Bankruptcy Project
+
+Real information, no strings.
+
+openbankruptcyproject.org
+1328f.com
+chapter7vs13.org
+bankruptcymeanstest.org
+♥ Sponsor
+
+This site provides general information only and does not constitute legal advice. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms

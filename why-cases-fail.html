@@ -87,6 +87,8 @@ th { color: var(--text-muted); font-size: 13px; text-transform: uppercase; lette
   .nav-links.open { display: flex; }
   .nav-links a { display: block; padding: 10px 0; border-top: 1px solid #222; min-height: 44px; line-height: 1.6; }
 }
+
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
 </style>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://1328f.org", "description": "Free, open-source bankruptcy court transparency tools and research.", "foundingDate": "2026-03-27", "areaServed": "US", "nonprofitStatus": "Nonprofit501c3", "sameAs": ["https://1328f.com", "https://1328f.org"]}
@@ -173,6 +175,8 @@ th { color: var(--text-muted); font-size: 13px; text-transform: uppercase; lette
   </div>
 </nav>
 <main id="main-content">
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://bankruptcymill.org">Bankruptcy Mills</a><span class="separator">&rsaquo;</span><span>Why Do Chapter 13 Cases Fail?</span></nav>
+
 <div class="container">
 <h1>Why Do Chapter 13 Cases Fail?</h1>
 <p class="subtitle">About 60-67% of Chapter 13 cases end in dismissal. Understanding why can help you prepare.</p>
@@ -339,5 +343,6 @@ th { color: var(--text-muted); font-size: 13px; text-transform: uppercase; lette
 <script>fetch("https://1328f.com/data/recap-count.json").then(function(r){return r.json()}).then(function(d){var e=document.getElementById("recap-count");if(e&&d.count!==undefined)e.textContent=d.count.toLocaleString();var b=document.getElementById("recap-bar");if(b&&d.count)b.style.width=Math.min(100,d.count/37900000*100).toFixed(4)+"%";var dn=document.getElementById("recap-donated");if(dn&&d.donated!==undefined)dn.textContent="$"+d.donated.toLocaleString()}).catch(function(){})</script>
 <script src="/btn-engage.js" defer></script>
 <div style="text-align:center;padding:16px;color:#8b949e;font-size:0.8rem;border-top:1px solid #30363d;margin-top:20px"><p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p></div>
+<script src="https://openbankruptcyproject.org/btn-search.js" defer></script>
 </body>
 </html>

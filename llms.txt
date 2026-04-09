@@ -1,17 +1,25 @@
-# bankruptcymill.org
+# What Is a Bankruptcy Mill?
+> How to spot a bankruptcy mill before you hire one. Warning signs, exposed practices, and data-driven red flags. Protect your case -- free 2026 guide.
 
-> Educational resource about bankruptcy mills -- high-volume law firms with poor client outcomes.
+## About
+bankruptcymill.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
-bankruptcymill.org is a free, open-source educational resource about bankruptcy mills and how to avoid them. Part of the Bankruptcy Transparency Network.
-
-## Pages
-
-- https://bankruptcymill.org/: What is a bankruptcy mill -- overview and warning signs
-- https://bankruptcymill.org/warning-signs.html: Red flags that your bankruptcy attorney may be running a mill
-- https://bankruptcymill.org/find-a-lawyer.html: How to find a quality bankruptcy attorney
-- https://bankruptcymill.org/why-cases-fail.html: Why bankruptcy cases fail -- data on dismissal rates and attorney quality
-- https://bankruptcymill.org/what-to-do.html: What to do if you suspect your attorney is running a bankruptcy mill
+## Key Pages
+- Bankruptcy Mill Outcomes Data: What Federal Courts Show: https://bankruptcymill.org/data-on-outcomes.html
+- How to Find a Bankruptcy Lawyer -- Bankruptcy Mill: https://bankruptcymill.org/find-a-lawyer.html
+- How to Spot a Bankruptcy Mill: Warning Signs: https://bankruptcymill.org/how-to-spot.html
+- What Is a Bankruptcy Mill?: https://bankruptcymill.org/
+- 10 Questions to Ask a Bankruptcy Attorney Before Hiring -- Bankruptcy Mill: https://bankruptcymill.org/questions-to-ask.html
+- 10 Warning Signs You Hired a Bankruptcy Mill: https://bankruptcymill.org/warning-signs.html
+- What To Do If You Think You Hired a Bankruptcy Mill: https://bankruptcymill.org/what-to-do.html
+- Why Do Chapter 13 Cases Fail? -- Bankruptcy Mill: https://bankruptcymill.org/why-cases-fail.html
+- Red Flags Your Bankruptcy Attorney May Be a Mill -- 15 Warning Signs -- Bankruptcy Mill: https://bankruptcymill.org/red-flags.html
+- Bankruptcy Mill FAQ -- How to Spot and Avoid High-Volume Firms: https://bankruptcymill.org/frequently-asked-questions.html
 
 ## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
 
-This site is maintained by volunteers. No legal advice is provided.
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
