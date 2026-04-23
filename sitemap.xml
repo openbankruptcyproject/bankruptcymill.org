@@ -1,68 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://bankruptcymill.org/about.html</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://bankruptcymill.org/data-on-outcomes.html</loc>
-    <lastmod>2026-04-09</lastmod>
+    <lastmod>2026-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankruptcymill.org/find-a-lawyer.html</loc>
-    <lastmod>2026-04-09</lastmod>
+    <lastmod>2026-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankruptcymill.org/frequently-asked-questions.html</loc>
-    <lastmod>2026-04-09</lastmod>
+    <lastmod>2026-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankruptcymill.org/how-to-spot.html</loc>
-    <lastmod>2026-04-09</lastmod>
+    <lastmod>2026-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankruptcymill.org/</loc>
-    <lastmod>2026-04-09</lastmod>
+    <lastmod>2026-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://bankruptcymill.org/privacy.html</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://bankruptcymill.org/questions-to-ask.html</loc>
-    <lastmod>2026-04-09</lastmod>
+    <lastmod>2026-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankruptcymill.org/red-flags.html</loc>
-    <lastmod>2026-04-09</lastmod>
+    <lastmod>2026-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankruptcymill.org/warning-signs.html</loc>
-    <lastmod>2026-04-09</lastmod>
+    <lastmod>2026-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankruptcymill.org/what-to-do.html</loc>
-    <lastmod>2026-04-09</lastmod>
+    <lastmod>2026-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankruptcymill.org/why-cases-fail.html</loc>
-    <lastmod>2026-04-09</lastmod>
+    <lastmod>2026-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://bankruptcymill.org/privacy.html</loc>
-    <lastmod>2026-04-11</lastmod>
-    <priority>0.3</priority>
   </url>
 </urlset>
