@@ -10,36 +10,36 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
-<title>Bankruptcy Mill Outcomes Data: What Federal Courts Show</title>
-<meta name="description" content="Learn about bankruptcy mill outcomes data: what federal courts show | bankruptcymill.org in our free 2026 guide.">
-<link rel="canonical" href="https://bankruptcymill.org/data-on-outcomes.html">
-<meta property="og:title" content="Bankruptcy Mill Outcomes Data: What Federal Courts Show">
-<meta property="og:description" content="Learn about bankruptcy mill outcomes data: what federal courts show | bankruptcymill.org in our free 2026 guide.">
+<title>How to Spot a Bankruptcy Mill: Warning Signs</title>
+<meta name="description" content="Learn about how to spot a bankruptcy mill: warning signs | bankruptcymill.org in our free 2026 guide. Clear explanations, real data, and...">
+<link rel="canonical" href="https://bankruptcymill.org/how-to-spot.html">
+<meta property="og:title" content="How to Spot a Bankruptcy Mill: Warning Signs">
+<meta property="og:description" content="Learn about how to spot a bankruptcy mill: warning signs | bankruptcymill.org in our free 2026 guide. Clear explanations, real data, and...">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://bankruptcymill.org/data-on-outcomes.html">
+<meta property="og:url" content="https://bankruptcymill.org/how-to-spot.html">
+<meta property="og:site_name" content="bankruptcymill.org">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <meta name="theme-color" content="#0d1117">
 <style>
 *{margin:0;padding:0;box-sizing:border-box}body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;background:#0a0a0a;color:#e5e5e5;min-height:100vh;line-height:1.7}a{color:#60a5fa;text-decoration:none}a:hover{text-decoration:underline}a:focus-visible{outline:2px solid #60a5fa;outline-offset:2px}
 .skip-link{position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;z-index:9999;padding:1rem;background:#238636;color:#fff;font-weight:600}.skip-link:focus{position:fixed;top:10px;left:10px;width:auto;height:auto;overflow:visible}
-.nav{background:#111;border-bottom:1px solid #333;padding:12px 24px;display:flex;align-items:center;gap:16px;flex-wrap:wrap}.nav .brand{color:#60a5fa;font-weight:700;font-size:16px;margin-right:auto;text-decoration:none}
+.nav{background:#111;border-bottom:1px solid #333;padding:12px 24px;display:flex;align-items:center;gap:16px;flex-wrap:wrap}.nav .brand{color:#60a5fa;font-weight:700;font-size:16px;margin-right:auto;text-decoration:none}.nav .brand:hover{text-decoration:none;opacity:0.9}
 .nav-links{display:flex;gap:16px;align-items:center;flex-wrap:wrap}.nav-links a{color:#999;font-size:14px}.nav-links a:hover{color:#fff;text-decoration:none}.nav-links a.active{color:#fff;font-weight:600}
 .hamburger{display:none;background:none;border:1px solid #333;color:#e5e5e5;font-size:1.2rem;padding:6px 12px;border-radius:4px;cursor:pointer}
-main{max-width:700px;margin:0 auto;padding:48px 24px}h1{font-size:28px;color:#fff;margin-bottom:12px}h2{font-size:20px;color:#fff;margin:2rem 0 0.75rem;padding-bottom:8px;border-bottom:1px solid #333}p{margin-bottom:1rem;color:#ccc;font-size:15px}.subtitle{color:#999;font-size:16px;margin-bottom:2rem}
+main{max-width:700px;margin:0 auto;padding:48px 24px}h1{font-size:28px;color:#fff;margin-bottom:12px}h2{font-size:20px;color:#fff;margin:2rem 0 0.75rem;padding-bottom:8px;border-bottom:1px solid #333}h3{font-size:16px;color:#fff;margin:1.5rem 0 0.5rem}p{margin-bottom:1rem;color:#ccc;font-size:15px}.subtitle{color:#999;font-size:16px;margin-bottom:2rem}
 ul,ol{margin:0 0 1rem 1.5rem;color:#ccc;font-size:15px}li{margin-bottom:0.5rem}
-.stat-card{background:#111;border:1px solid #333;border-radius:12px;padding:24px;margin-bottom:16px;text-align:center}
-.stat-card .num{font-size:32px;font-weight:700;color:#60a5fa}.stat-card .label{font-size:14px;color:#888;margin-top:6px}
-.card{background:#111;border:1px solid #333;border-radius:12px;padding:24px;margin-bottom:16px}.card h3{margin-top:0;color:#4ade80;margin-bottom:8px;font-size:16px}
+.card{background:#111;border:1px solid #333;border-radius:12px;padding:24px;margin-bottom:16px}.card h3{margin-top:0;color:#4ade80;margin-bottom:8px}
+.warning-card{background:#111;border:1px solid #ef4444;border-radius:12px;padding:24px;margin-bottom:16px}.warning-card h3{margin-top:0;color:#ef4444}
 .disclaimer{background:#111;border:1px solid #333;border-radius:8px;padding:1rem 1.25rem;margin-top:2.5rem;font-size:0.8rem;color:#888}
-.network-footer{background:#111;border-top:1px solid #333;padding:2rem 24px;text-align:center;margin-top:48px}.network-footer p{color:#888;font-size:0.85rem;margin-bottom:0.5rem}.network-footer .links{display:flex;justify-content:center;flex-wrap:wrap;gap:1rem;margin-top:0.75rem}.network-footer .links a{color:#888;font-size:0.85rem}.network-footer .links a:hover{color:#60a5fa}
-@media(max-width:600px){h1{font-size:22px}main{padding:28px 16px}.hamburger{display:block}.nav-links{display:none;width:100%;flex-direction:column;gap:0;padding-top:12px}.nav-links.open{display:flex}.nav-links a{display:block;padding:10px 0;border-top:1px solid #222;min-height:44px;line-height:1.6}.stat-card .num{font-size:24px}}
+.network-footer{background:#111;border-top:1px solid #333;padding:2rem 24px;text-align:center;margin-top:48px}.network-footer p{color:#888;font-size:0.85rem;margin-bottom:0.5rem}.network-footer .links{display:flex;justify-content:center;flex-wrap:wrap;gap:1rem;margin-top:0.75rem}.network-footer .links a{color:#888;font-size:0.85rem}.network-footer .links a:hover{color:#60a5fa}.network-footer .disclaimer-text{margin-top:1rem;font-size:0.75rem;color:#666}
+@media(max-width:600px){h1{font-size:22px}main{padding:28px 16px}.hamburger{display:block}.nav-links{display:none;width:100%;flex-direction:column;gap:0;padding-top:12px}.nav-links.open{display:flex}.nav-links a{display:block;padding:10px 0;border-top:1px solid #222;min-height:44px;line-height:1.6}}
 
 .breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
 </style>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-{"@type":"Question","name":"What do the outcomes show for high-volume bankruptcy practices?","acceptedAnswer":{"@type":"Answer","text":"Federal court data from 4.9 million cases shows that attorneys in the highest volume brackets tend to have dismissal rates 2-3 times higher than low-volume attorneys practicing in the same courts. The national Chapter 13 dismissal rate is approximately 26%, but some high-volume attorneys exceed 60-70% dismissal rates while their peers in the same courthouse achieve rates below 20%."}},
-{"@type":"Question","name":"Where does this bankruptcy outcomes data come from?","acceptedAnswer":{"@type":"Answer","text":"The data comes from the FJC Integrated Database (maintained by the Federal Judicial Center) and public PACER records. The FJC database tracks case-level outcomes for all federal bankruptcy filings. Together these sources cover 4.9 million cases across all 94 federal judicial districts."}}
+{"@type":"Question","name":"How can I tell if a bankruptcy attorney is a mill?","acceptedAnswer":{"@type":"Answer","text":"Warning signs include heavy advertising (TV, radio, billboards), no-money-down Chapter 13 offers, minimal or no initial consultation, you never meet the attorney who signed your paperwork, non-attorney staff handle most of your case, cookie-cutter filings with errors, difficulty reaching your attorney after filing, and the firm files an extremely high volume of cases relative to its size."}},
+{"@type":"Question","name":"Is a no-money-down bankruptcy offer a red flag?","acceptedAnswer":{"@type":"Answer","text":"It can be. No-money-down Chapter 13 filings mean the attorney fees are paid through your bankruptcy plan. This creates an incentive to file cases quickly regardless of whether the plan is feasible. The attorney gets paid from plan payments, so they benefit even if your case is eventually dismissed. Not every no-money-down firm is a mill, but it is a common characteristic of mills."}}
 ]}
 </script>
 <script type="application/ld+json">
@@ -51,8 +51,8 @@ ul,ol{margin:0 0 1rem 1.5rem;color:#ccc;font-size:15px}li{margin-bottom:0.5rem}
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Bankruptcy Mill Outcomes: What the Data Shows",
-      "description": "Federal court data shows higher dismissal rates in high-volume bankruptcy practices. National statistics from 4.9 million cases reveal measurable patterns in at",
+      "headline": "How to Spot a Bankruptcy Mill",
+      "description": "How to identify a bankruptcy mill before you hire one. Warning signs include heavy advertising, no-money-down offers, minimal consultation, and cookie-cutter fi",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -64,7 +64,7 @@ ul,ol{margin:0 0 1rem 1.5rem;color:#ccc;font-size:15px}li{margin-bottom:0.5rem}
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://bankruptcymill.org/data-on-outcomes.html"
+      "mainEntityOfPage": "https://bankruptcymill.org/how-to-spot.html"
     },
     {
       "@type": "BreadcrumbList",
@@ -84,15 +84,15 @@ ul,ol{margin:0 0 1rem 1.5rem;color:#ccc;font-size:15px}li{margin-bottom:0.5rem}
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Bankruptcy Mill Outcomes: What the Data Shows",
-          "item": "https://bankruptcymill.org/data-on-outcomes.html"
+          "name": "How to Spot a Bankruptcy Mill",
+          "item": "https://bankruptcymill.org/how-to-spot.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "name": "Bankruptcy Mill Outcomes: What the Data Shows",
-      "url": "https://bankruptcymill.org/data-on-outcomes.html",
+      "name": "How to Spot a Bankruptcy Mill",
+      "url": "https://bankruptcymill.org/how-to-spot.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -107,34 +107,13 @@ ul,ol{margin:0 0 1rem 1.5rem;color:#ccc;font-size:15px}li{margin-bottom:0.5rem}
 }
 </script>
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Bankruptcy Mill Outcomes Data: What Federal Courts Show">
-<meta name="twitter:description" content="Learn about bankruptcy mill outcomes data: what federal courts show | bankruptcymill.org in our free 2026 guide.">
+<meta name="twitter:title" content="How to Spot a Bankruptcy Mill: Warning Signs">
+<meta name="twitter:description" content="Learn about how to spot a bankruptcy mill: warning signs | bankruptcymill.org in our free 2026 guide. Clear explanations, real data, and...">
 <meta property="og:image" content="/og-image.svg">
 <meta name="twitter:image" content="/og-image.svg">
 
-<link rel="alternate" hreflang="en" href="https://bankruptcymill.org/data-on-outcomes.html">
-<link rel="alternate" hreflang="es" href="https://bankruptcymill.org/data-on-outcomes-es.html">
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link rel="alternate" hreflang="en" href="https://bankruptcymill.org/how-to-spot.html">
+<link rel="alternate" hreflang="es" href="https://bankruptcymill.org/how-to-spot-es.html">
 </head>
 <body>
 <a href="#main-content" class="skip-link">Skip to main content</a>
@@ -144,8 +123,8 @@ ul,ol{margin:0 0 1rem 1.5rem;color:#ccc;font-size:15px}li{margin-bottom:0.5rem}
   <div class="nav-links">
     <a href="/">Home</a>
     <a href="/warning-signs.html">Warning Signs</a>
-    <a href="/how-to-spot.html">How to Spot</a>
-    <a href="/data-on-outcomes.html" class="active">Outcomes Data</a>
+    <a href="/how-to-spot.html" class="active">How to Spot</a>
+    <a href="/data-on-outcomes.html">Outcomes Data</a>
     <a href="/questions-to-ask.html">Questions to Ask</a>
     <a href="/why-cases-fail.html">Why Cases Fail</a>
     <a href="/what-to-do.html">What To Do</a>
@@ -154,71 +133,82 @@ ul,ol{margin:0 0 1rem 1.5rem;color:#ccc;font-size:15px}li{margin-bottom:0.5rem}
 </nav>
 
 <main id="main-content">
-<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://bankruptcymill.org">Bankruptcy Mills</a><span class="separator">&rsaquo;</span><span>Bankruptcy Mill Outcomes: What the Data Shows</span></nav>
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://bankruptcymill.org">Bankruptcy Mills</a><span class="separator">&rsaquo;</span><span>How to Spot a Bankruptcy Mill</span></nav>
 
-  <h1>Bankruptcy Mill Outcomes: What the Data Shows</h1>
-  <p class="subtitle">Federal court data from 4.9 million cases reveals measurable patterns in attorney performance</p>
+  <h1>How to Spot a Bankruptcy Mill</h1>
+  <p class="subtitle">Warning signs to look for before you hire a bankruptcy attorney</p>
 
-  <p>The question of whether attorney choice affects bankruptcy outcomes is not a matter of opinion. Federal court records provide clear, measurable answers. When you analyze 4.9 million bankruptcy cases across all 94 federal districts, patterns emerge that are difficult to explain as anything other than differences in the quality of representation.</p>
+  <p>A <a href="https://bankruptcymill.com/" title="bankruptcy mill">bankruptcy mill</a> is a high-volume law firm that processes large numbers of cases with minimal individual attention. Not every busy attorney is a mill - some handle many cases and still achieve strong outcomes. The difference is in the pattern: mills consistently produce worse results for their clients while profiting regardless of whether cases succeed.</p>
 
-  <h2>The National Picture</h2>
+  <p>Here are the warning signs to watch for.</p>
 
-  <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:24px">
-    <div class="stat-card"><div class="num">26.1%</div><div class="label">National Ch. 13 <a href="https://dismissalrate.org/" title="dismissal rate">dismissal rate</a></div></div>
-    <div class="stat-card"><div class="num">60-67%</div><div class="label">Estimated Ch. 13 total failure rate</div></div>
-    <div class="stat-card"><div class="num">4.9M</div><div class="label">Cases in the federal dataset</div></div>
-    <div class="stat-card"><div class="num">70+ pts</div><div class="label">Attorney <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a> rate gap within same court</div></div>
+  <h2>Before You Hire</h2>
+
+  <div class="warning-card">
+    <h3>1. Heavy, aggressive advertising</h3>
+    <p>TV commercials, radio ads, billboards, and social media blitzes are expensive. Firms that spend heavily on advertising need high case volume to cover those costs. That volume often comes at the expense of individual attention. Not every advertising firm is a mill, but most mills advertise aggressively.</p>
   </div>
 
-  <p>The 26.1% national <a href="https://dismissalrate.org" title="Bankruptcy Dismissal Rates - Open Bankruptcy Project" target="_blank" rel="noopener">dismissal rate</a> only counts cases formally dismissed by the court. When you add voluntary dismissals, conversions to <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>, and cases closed without <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>, the true failure rate for <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> cases reaches 60-67%. That means the majority of people who file <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> bankruptcy never complete their plan and receive a <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>.</p>
-
-  <h2>The Attorney Effect</h2>
-
-  <p>The most striking finding in the data is the enormous variation between attorneys practicing in the same court. Within a single district:</p>
-
-  <ul>
-    <li>The best-performing attorneys consistently achieve discharge rates above 80%</li>
-    <li>The worst-performing attorneys see fewer than 15-20% of their clients reach discharge</li>
-    <li>This gap exists even when controlling for the same court, same judges, and similar case types</li>
-  </ul>
-
-  <p>When attorneys in the same courthouse, subject to the same rules and judges, produce wildly different outcomes, the difference is attributable to the quality of representation - not the difficulty of the cases.</p>
-
-  <h2>Volume and Outcomes</h2>
-
-  <div class="card">
-    <h3>The correlation is not automatic</h3>
-    <p>High volume alone does not guarantee poor outcomes. Some high-volume attorneys maintain excellent discharge rates through well-organized practices, adequate staffing, and genuine client attention. The pattern associated with mills is a specific combination: extremely high volume paired with poor outcomes, aggressive advertising, and minimal client contact.</p>
+  <div class="warning-card">
+    <h3>2. "No money down" Chapter 13 offers</h3>
+    <p>When a firm advertises no-money-down <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> bankruptcy, it means their fees come out of your bankruptcy plan payments. This creates a problematic incentive: the firm gets paid whether your case succeeds or not. They profit from filing the case, even if it is eventually dismissed and you get nothing.</p>
   </div>
 
-  <p>What the data consistently shows:</p>
+  <div class="warning-card">
+    <h3>3. Minimal initial consultation</h3>
+    <p>A legitimate bankruptcy attorney spends 30 to 60 minutes reviewing your financial situation before recommending a course of action. If the "consultation" lasts 10 minutes, focuses mainly on getting you signed up, and does not involve detailed questions about your specific circumstances, that is a red flag.</p>
+  </div>
+
+  <div class="warning-card">
+    <h3>4. You never meet an attorney</h3>
+    <p>In many mills, clients interact primarily with non-attorney staff - paralegals, legal assistants, or intake specialists. You may not meet the attorney whose name is on your case until the 341 <a href="https://341meeting.org" title="341 Meeting of Creditors - Open Bankruptcy Project" target="_blank" rel="noopener">meeting of creditors</a>, or at all. While attorneys can and should delegate tasks, you should have meaningful contact with the lawyer handling your case.</p>
+  </div>
+
+  <div class="warning-card">
+    <h3>5. Pressure to file immediately</h3>
+    <p>Bankruptcy is a major decision. A good attorney helps you consider all options - including not filing. If a firm pressures you to sign a retainer and file immediately without thorough analysis, they may be more interested in the fee than your outcome.</p>
+  </div>
+
+  <h2>After You Hire</h2>
+
+  <div class="warning-card">
+    <h3>6. Cookie-cutter filings</h3>
+    <p>If your bankruptcy petition and schedules look like a template with your name plugged in, that is a problem. Errors in schedules - wrong asset values, missing debts, incorrect <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a> - are a hallmark of high-volume, low-attention practice.</p>
+  </div>
+
+  <div class="warning-card">
+    <h3>7. You cannot reach your attorney</h3>
+    <p>After filing, your attorney should be reachable for questions and concerns. If calls go unreturned for days or weeks, if you can never speak to the actual attorney, or if you are told your attorney is "in court all day" every time you call, the firm may be handling more cases than it can manage.</p>
+  </div>
+
+  <div class="warning-card">
+    <h3>8. No explanation of your plan or case</h3>
+    <p>You should understand your <a href="https://chapter13plan.org" title="Chapter 13 Repayment Plan - Open Bankruptcy Project" target="_blank" rel="noopener">Chapter 13 plan</a>: how much you are paying, for how long, and what debts are being addressed. If your attorney cannot explain your plan in plain English, or if you first see the plan at the <a href="https://341meeting.org" title="341 Meeting of Creditors - Open Bankruptcy Project" target="_blank" rel="noopener">341 meeting</a>, that is a serious red flag.</p>
+  </div>
+
+  <h2>What to Do If You Spot These Signs</h2>
+
+  <p>If you recognize several of these warning signs, you have options:</p>
 
   <ul>
-    <li>Attorneys in the highest volume brackets are overrepresented among the worst performers</li>
-    <li>The relationship between volume and poor outcomes is strongest in Chapter 13</li>
-    <li>Firms that advertise "no money down" tend to cluster in the high-volume, high-dismissal group</li>
-    <li>The effect is district-specific - a high-volume attorney in one district may perform differently than in another</li>
+    <li><strong>Before hiring:</strong> Walk away. Consult a different attorney. Ask the <a href="/questions-to-ask.html">right questions</a> before signing anything.</li>
+    <li><strong>After hiring but before filing:</strong> Fire the attorney. You have no obligation to continue.</li>
+    <li><strong>After filing:</strong> You can fire your attorney and hire a new one (motion to substitute counsel), or if your case is a <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>, you can request a fee review. See our <a href="/what-to-do.html">what to do guide</a>.</li>
   </ul>
 
-  <h2>What This Means for Consumers</h2>
-
-  <p>The data suggests that choosing an attorney is one of the most consequential decisions a bankruptcy filer makes. The difference between a good attorney and a poor one can mean the difference between completing your plan and losing years of payments with nothing to show for it.</p>
-
-  <p>Before hiring an attorney, ask the <a href="/questions-to-ask.html">right questions</a>. If you are already in a case and suspect problems, see our <a href="/what-to-do.html">guide on what to do</a>.</p>
+  <p>For more on outcomes data showing the impact of attorney quality, see <a href="/data-on-outcomes.html">outcomes data</a>. For specific questions to ask during a consultation, see <a href="/questions-to-ask.html">questions to ask your attorney</a>.</p>
 
   <div class="card">
-    <h3>Cross-References</h3>
+    <h3>Related Resources</h3>
     <ul>
-      <li><a href="https://bankruptcymalpractice.org/" rel="noopener">Bankruptcy malpractice - when poor representation crosses the line</a></li>
-      <li><a href="https://dismissalrate.org/attorney-impact.html" rel="noopener">Attorney impact on dismissal rates</a></li>
+      <li><a href="https://bankruptcymalpractice.org/" rel="noopener">Bankruptcy malpractice guide</a></li>
+      <li><a href="https://dismissalrate.org/attorney-impact.html" rel="noopener">How attorneys affect dismissal rates</a></li>
       <li><a href="https://howtofilebankruptcy.org/" rel="noopener">How to file bankruptcy - step-by-step guide</a></li>
     </ul>
   </div>
 
-  <p style="font-size:13px;color:#666;margin-top:1.5rem">Data source: FJC Integrated Database and public <a href="https://1328f.com/glossary.html#pacer" title="PACER">PACER</a> records. Analysis covers cases filed 2008-2024 across all 94 federal judicial districts.</p>
-
   <div class="disclaimer">
-    <strong>Not legal advice.</strong> This site provides general educational information. It does not identify or name any specific attorney or firm. Consult a qualified attorney for your specific situation.
+    <strong>Not legal advice.</strong> This site provides general educational information about bankruptcy mills. It does not identify or name any specific attorney or firm. Consult a qualified attorney for your specific situation.
   </div>
 
 <!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
@@ -227,11 +217,14 @@ ul,ol{margin:0 0 1rem 1.5rem;color:#ccc;font-size:15px}li{margin-bottom:0.5rem}
   <ul style="list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.5rem">
   <li><a href="https://openbankruptcyproject.org" style="color:#58a6ff;text-decoration:none">Open Bankruptcy Project</a></li>
   <li><a href="https://monitor.openbankruptcyproject.org" style="color:#58a6ff;text-decoration:none">Attorney Monitoring Dashboard</a></li>
-  <li><a href="https://section329.org" style="color:#58a6ff;text-decoration:none">Section 329 Fee Disgorgement</a></li>
   </ul>
 </div>
 
 </main>
+
+<div class="content-section" style="border-left:3px solid #f85149">
+  <p>If you believe your attorney's conduct harmed your bankruptcy case, you may have legal options. Learn about your rights at <a href="https://bankruptcymalpractice.org">bankruptcymalpractice.org</a> and <a href="https://section329.org">section329.org</a> (<a href="https://section329.org" title="Section 329 Fee Disgorgement - Open Bankruptcy Project" target="_blank" rel="noopener">fee disgorgement</a>).</p>
+</div>
 
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:600px;margin:2rem auto">
   <p style="color:#f0f6fc;font-size:1rem;font-weight:600;margin-bottom:0.5rem">Stay updated on new datasets and research findings</p>
@@ -243,7 +236,7 @@ ul,ol{margin:0 0 1rem 1.5rem;color:#ccc;font-size:15px}li{margin-bottom:0.5rem}
   </form>
 </div>
 <div style="background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:2rem auto 1rem">
-<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit.</p>
 <a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s" onmouseover="this.style.background='#9e2c6f'" onmouseout="this.style.background='#bf3989'">&#9829; Sponsor</a>
 </div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">
@@ -303,16 +296,16 @@ ul,ol{margin:0 0 1rem 1.5rem;color:#ccc;font-size:15px}li{margin-bottom:0.5rem}
   <ul style="list-style:none;padding:0;margin:0">
     <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=bankruptcymill.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
     <li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=bankruptcymill.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
-    <li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=bankruptcymill.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://studentloanforgive.org/?utm_source=bankruptcymill.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Student Loan Forgiveness Programs</a> <span style="color:#7d8590;font-size:0.8rem">-- studentloanforgive.org</span></li>
   </ul>
 </div>
 <!-- BTN:FOOTER:START -->
 <footer class="network-footer" role="contentinfo">
   <p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
 
-  <p><strong>Part of the Open Bankruptcy Project</strong></p>
+  <p><strong>Part of the Bankruptcy Transparency Network</strong></p>
   <div class="links"><a href="https://1328f.com?utm_source=bankruptcymill.org&utm_medium=referral&utm_campaign=btn-network">1328f.com</a><a href="https://1328f.org?utm_source=bankruptcymill.org&utm_medium=referral&utm_campaign=btn-network">1328f.org</a><a href="https://bankruptcymalpractice.org?utm_source=bankruptcymill.org&utm_medium=referral&utm_campaign=btn-network">bankruptcymalpractice.org</a><a href="https://dismissalrate.org?utm_source=bankruptcymill.org&utm_medium=referral&utm_campaign=btn-network">dismissalrate.org</a><a href="https://howtofilebankruptcy.org?utm_source=bankruptcymill.org&utm_medium=referral&utm_campaign=btn-network">howtofilebankruptcy.org</a></div>
-  <p style="margin-top:1rem;font-size:0.75rem;color:#666">Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project.</p>
+  <p class="disclaimer-text">Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.</p>
   <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=bankruptcymill.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=bankruptcymill.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=bankruptcymill.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 <div style="text-align:center;padding:1rem 0 0;border-top:1px solid #30363d;margin-top:1.5rem">
 <p style="color:#7d8590;font-size:0.75rem">Our research was cited by the federal judiciary as <a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" target="_blank" rel="noopener" style="color:#58a6ff">Suggestion 26-BK-3</a></p>

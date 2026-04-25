@@ -16,17 +16,17 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
-<title>10 Warning Signs You Hired a Bankruptcy Mill</title>
-<meta name="description" content="Learn about 10 warning signs you hired a bankruptcy mill | bankruptcymill.org in our free 2026 guide. Clear explanations, real data, and...">
-<link rel="canonical" href="https://bankruptcymill.org/warning-signs.html">
-<meta property="og:title" content="10 Warning Signs You Hired a Bankruptcy Mill">
-<meta property="og:description" content="Learn about 10 warning signs you hired a bankruptcy mill | bankruptcymill.org in our free 2026 guide. Clear explanations, real data, and...">
+<title>Why Do Chapter 13 Cases Fail? - Bankruptcy Mill</title>
+<meta name="description" content="About 60-67% of Chapter 13 cases fail. Leading causes include missed payments, incomplete documents, and unrealistic plans. Data from 4....">
+<link rel="canonical" href="https://bankruptcymill.org/why-cases-fail.html">
+<meta property="og:title" content="Why Do Chapter 13 Cases Fail? - Bankruptcy Mill">
+<meta property="og:description" content="About 60-67% of Chapter 13 cases fail. Leading causes include missed payments, incomplete documents, and unrealistic plans. Data from 4....">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://bankruptcymill.org/warning-signs.html">
+<meta property="og:url" content="https://bankruptcymill.org/why-cases-fail.html">
 <meta property="og:site_name" content="bankruptcymill.org">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="10 Warning Signs You Hired a Bankruptcy Mill">
-<meta name="twitter:description" content="Learn about 10 warning signs you hired a bankruptcy mill | bankruptcymill.org in our free 2026 guide. Clear explanations, real data, and...">
+<meta name="twitter:title" content="Why Do Chapter 13 Cases Fail? - Bankruptcy Mill">
+<meta name="twitter:description" content="About 60-67% of Chapter 13 cases fail. Leading causes include missed payments, incomplete documents, and unrealistic plans. Data from 4....">
 <meta property="og:image" content="/og-image.svg">
 <meta name="twitter:image" content="/og-image.svg">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
@@ -100,8 +100,8 @@ th { color: var(--text-muted); font-size: 13px; text-transform: uppercase; lette
   "@graph": [
     {
       "@type": "Article",
-      "headline": "10 Warning Signs You Hired a Bankruptcy Mill",
-      "description": "How to tell if your bankruptcy attorney is running a high-volume mill. 10 data-backed red flags including high dismissal rates and communication failures.",
+      "headline": "Why Do Chapter 13 Cases Fail?",
+      "description": "About 60-67% of Chapter 13 cases fail. Leading causes include missed payments, incomplete documents, and unrealistic plans. Data from 4.9M federal cases.",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -113,7 +113,7 @@ th { color: var(--text-muted); font-size: 13px; text-transform: uppercase; lette
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://bankruptcymill.org/warning-signs.html"
+      "mainEntityOfPage": "https://bankruptcymill.org/why-cases-fail.html"
     },
     {
       "@type": "BreadcrumbList",
@@ -133,15 +133,15 @@ th { color: var(--text-muted); font-size: 13px; text-transform: uppercase; lette
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "10 Warning Signs You Hired a Bankruptcy Mill",
-          "item": "https://bankruptcymill.org/warning-signs.html"
+          "name": "Why Do Chapter 13 Cases Fail?",
+          "item": "https://bankruptcymill.org/why-cases-fail.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "name": "10 Warning Signs You Hired a Bankruptcy Mill",
-      "url": "https://bankruptcymill.org/warning-signs.html",
+      "name": "Why Do Chapter 13 Cases Fail?",
+      "url": "https://bankruptcymill.org/why-cases-fail.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -156,32 +156,11 @@ th { color: var(--text-muted); font-size: 13px; text-transform: uppercase; lette
 }
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is a bankruptcy mill?", "acceptedAnswer": {"@type": "Answer", "text": "A bankruptcy mill is a high-volume law firm that processes large numbers of bankruptcy cases with minimal attorney involvement. Cases are often handled by paralegals or software, leading to errors, missed deadlines, and poor outcomes for clients."}}, {"@type": "Question", "name": "How do I know if my bankruptcy attorney is a mill?", "acceptedAnswer": {"@type": "Answer", "text": "Warning signs include: you rarely speak with an actual attorney, your case is one of hundreds filed monthly, communications come only from paralegals, hearings are attended by attorneys you have never met, and billing entries are generic or duplicated."}}, {"@type": "Question", "name": "What problems do bankruptcy mills cause?", "acceptedAnswer": {"@type": "Answer", "text": "Common issues include missed deadlines, incorrect schedules, failure to claim available exemptions, dismissed cases, unnecessary fees, and lack of personalized legal advice. Clients may lose assets they could have protected with competent counsel."}}, {"@type": "Question", "name": "Can I fire my bankruptcy attorney if they are a mill?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. You can substitute counsel or proceed pro se at any time. File a motion to substitute counsel with the court. You may also be entitled to a refund of fees for work not performed or performed negligently."}}, {"@type": "Question", "name": "How many cases should a bankruptcy attorney handle?", "acceptedAnswer": {"@type": "Answer", "text": "There is no hard limit, but attorneys filing more than 20-30 cases per month may struggle to provide adequate individual attention. Quality representation requires reviewing each client's unique financial situation, assets, and exemptions."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Why Do Chapter 13 Cases Fail?", "acceptedAnswer": {"@type": "Answer", "text": "A bankruptcy mill is a high-volume law firm that processes large numbers of bankruptcy cases with minimal attorney involvement. Cases are often handled by paralegals or software, leading to errors, missed deadlines, and poor outcomes for clients."}}, {"@type": "Question", "name": "What is a bankruptcy mill?", "acceptedAnswer": {"@type": "Answer", "text": "A bankruptcy mill is a high-volume law firm that processes large numbers of bankruptcy cases with minimal attorney involvement. Cases are often handled by paralegals or software, leading to errors, missed deadlines, and poor outcomes for clients."}}, {"@type": "Question", "name": "How do I know if my bankruptcy attorney is a mill?", "acceptedAnswer": {"@type": "Answer", "text": "Warning signs include: you rarely speak with an actual attorney, your case is one of hundreds filed monthly, communications come only from paralegals, hearings are attended by attorneys you have never met, and billing entries are generic or duplicated."}}, {"@type": "Question", "name": "What problems do bankruptcy mills cause?", "acceptedAnswer": {"@type": "Answer", "text": "Common issues include missed deadlines, incorrect schedules, failure to claim available exemptions, dismissed cases, unnecessary fees, and lack of personalized legal advice. Clients may lose assets they could have protected with competent counsel."}}, {"@type": "Question", "name": "Can I fire my bankruptcy attorney if they are a mill?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. You can substitute counsel or proceed pro se at any time. File a motion to substitute counsel with the court. You may also be entitled to a refund of fees for work not performed or performed negligently."}}]}
 </script>
 
-<link rel="alternate" hreflang="en" href="https://bankruptcymill.org/warning-signs.html">
-<link rel="alternate" hreflang="es" href="https://bankruptcymill.org/warning-signs-es.html">
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link rel="alternate" hreflang="en" href="https://bankruptcymill.org/why-cases-fail.html">
+<link rel="alternate" hreflang="es" href="https://bankruptcymill.org/why-cases-fail-es.html">
 </head>
 <body>
 <a href="#main-content" class="skip-link">Skip to main content</a>
@@ -190,69 +169,75 @@ th { color: var(--text-muted); font-size: 13px; text-transform: uppercase; lette
   <button class="hamburger" aria-label="Toggle navigation menu" onclick="document.querySelector('.nav-links').classList.toggle('open')">&#9776;</button>
   <div class="nav-links">
     <a href="/">Home</a>
-    <a href="/warning-signs.html" class="active">Warning Signs</a>
-    <a href="/why-cases-fail.html">Why Cases Fail</a>
+    <a href="/warning-signs.html">Warning Signs</a>
+    <a href="/why-cases-fail.html" class="active">Why Cases Fail</a>
     <a href="/what-to-do.html">What To Do</a>
     <a href="/find-a-lawyer.html">Find a Lawyer</a>
   </div>
 </nav>
 <main id="main-content">
-<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://bankruptcymill.org">Bankruptcy Mills</a><span class="separator">&rsaquo;</span><span>10 Warning Signs You Hired a Bankruptcy Mill</span></nav>
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://bankruptcymill.org">Bankruptcy Mills</a><span class="separator">&rsaquo;</span><span>Why Do Chapter 13 Cases Fail?</span></nav>
 
 <div class="container">
-<h1>10 Warning Signs You Hired a Bankruptcy Mill</h1>
-<p class="subtitle">How to tell if your bankruptcy attorney is running a high-volume practice that puts profits over outcomes.</p>
+<h1>Why Do Chapter 13 Cases Fail?</h1>
+<p class="subtitle">About 60-67% of <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> cases end in <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a>. Understanding why can help you prepare.</p>
 
-<div class="info-box">
-<div class="label">What the data shows</div>
-<p style="margin-bottom:0">Federal court records covering 4.9 million bankruptcy cases reveal dramatic variation in attorney outcomes. Within the same district, some attorneys achieve <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> completion rates above 50%, while others fall below 15%. The difference often comes down to the level of individual attention each case receives.</p>
-</div>
+<h2>The scale of the problem</h2>
+<p>According to FJC data covering 4.9 million cases across 94 federal districts, the majority of <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> bankruptcy cases do not result in a <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>. The national failure rate is approximately <strong>60-67%</strong>, meaning roughly two out of every three filers do not complete their repayment plans.</p>
 
-<h2>1. "No money down" advertising</h2>
-<p>This is the most recognizable mill indicator. The attorney charges fees through the bankruptcy plan rather than requiring payment upfront. While this makes bankruptcy accessible to more people, it also creates a perverse incentive: the attorney gets paid whether or not the case succeeds. If the case is dismissed, the attorney has already collected partial fees through the trustee, but the client has no <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> and no refund.</p>
+<h2>Leading causes of Chapter 13 failure</h2>
 
-<h2>2. Extremely high caseloads</h2>
-<p>Some attorneys handle hundreds of active cases simultaneously. Court data shows that attorneys with the highest caseloads tend to have the highest <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a> rates. There is a limit to how many cases one attorney can competently manage. When an attorney is juggling 300+ active cases, yours is unlikely to get the attention it needs.</p>
+<h3>1. Inability to make plan payments</h3>
+<p>The most common cause. Chapter 13 requires 36 to 60 months of consistent monthly payments. Over that period, financial disruptions are almost inevitable: job loss, medical emergencies, car repairs, divorce, or other expenses. When payments are missed, the trustee files a motion to dismiss.</p>
 
-<h2>3. You never actually meet the attorney</h2>
-<p>You signed a retainer with an attorney whose name is on the door, but every interaction is with a paralegal or legal assistant. The attorney may sign filings but has never reviewed your specific situation. In some mills, the named attorney has never read the petition filed under their bar number.</p>
+<h3>2. Failure to file required documents</h3>
+<p>Courts require schedules of assets and liabilities, statements of financial affairs, tax returns, pay stubs, and other documents. When these are not filed within the court's deadlines, the case is dismissed. This is especially common with bare petitions that are never completed.</p>
 
-<h2>4. All contact is with paralegals or intake staff</h2>
-<p>Related to the point above, but distinct. Mills often use non-attorney staff for everything: intake, document preparation, client communication, and even substantive legal questions. While paralegals play an important role in any law practice, an attorney should be making the key decisions about your case strategy.</p>
+<h3>3. Unrealistic plan proposals</h3>
+<p>Some plans are based on optimistic income projections or underestimate expenses. When the debtor cannot actually afford the proposed payment, the plan fails. This can be a sign of inadequate pre-filing analysis by the attorney.</p>
 
-<h2>5. Cookie-cutter petitions with errors</h2>
-<p>Mills process cases on templates. When the template does not match your situation, errors appear in the petition - wrong income figures, missing assets, incorrect <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a>, schedules that do not add up. These errors can lead to trustee objections, delays, or <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a>.</p>
+<h3>4. Failure to attend the 341 meeting</h3>
+<p>The 341 <a href="https://341meeting.org" title="341 Meeting of Creditors - Open Bankruptcy Project" target="_blank" rel="noopener">meeting of creditors</a> is mandatory. Failure to appear results in <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a>. Some debtors miss the meeting due to lack of transportation, work conflicts, or failure to receive notice.</p>
 
-<h2>6. Missed deadlines and document failures</h2>
-<p>Court data shows that cases filed as bare petitions (without complete schedules) have significantly higher dismissal rates. Mills often file first and sort out the details later - or never. If your attorney filed your case without complete schedules and has not followed up, that is a red flag.</p>
+<h3>5. Life changes during the plan period</h3>
+<p>Over 3-5 years, circumstances change. Divorce, disability, relocation, or the death of a co-debtor can make plan completion impossible. While plan modifications are available, they require additional court proceedings and attorney fees.</p>
 
-<h2>7. High dismissal rates relative to peers</h2>
-<p>This is the most objective indicator. Every attorney's case outcomes are a matter of public record through <a href="https://1328f.com/glossary.html#pacer" title="PACER">PACER</a> and CourtListener. When an attorney's <a href="https://dismissalrate.org" title="Bankruptcy Dismissal Rates - Open Bankruptcy Project" target="_blank" rel="noopener">dismissal rate</a> is significantly above the district average, it suggests a systemic problem - not bad luck.</p>
+<h3>6. Inadequate legal representation</h3>
+<p>Court data reveals significant variation in completion rates among attorneys within the same district. Some attorneys achieve completion rates above 50%, while others fall below 15%. This variation suggests that the quality of legal representation plays a meaningful role in case outcomes.</p>
 
 <div class="red-box">
-<div class="label">The cost of a dismissed case</div>
-<p style="margin-bottom:0">A failed <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> case typically costs the debtor $3,500-$5,000 or more in attorney fees and filing fees, plus all plan payments made before dismissal. None of this results in debt relief. The debtor ends up worse off than before filing.</p>
+<div class="label">The cost of failure</div>
+<p style="margin-bottom:0">A failed Chapter 13 case typically costs the debtor $3,500-$5,000 or more in attorney fees and filing fees, plus all plan payments made before dismissal. None of this results in debt relief. The debtor ends up worse off than before filing - with less money and the same debts.</p>
 </div>
 
-<h2>8. No one returns your calls</h2>
-<p>Communication breakdowns are one of the top complaints against bankruptcy mills. If you cannot reach your attorney - or anyone at the firm - for days or weeks at a time, your case may not be getting the attention it needs. Lack of communication is also the most common basis for bar complaints against bankruptcy attorneys.</p>
-
-<h2>9. Fee structure that is unclear or constantly changing</h2>
-<p>A quality attorney explains the total cost upfront: attorney fees, filing fees, <a href="https://bankruptcyfreshstart.org/" title="credit counseling">credit counseling</a> fees, and any additional charges. Mills may quote a low initial price and then add charges, or the fee structure may be buried in fine print. If you do not understand what you are paying and what you are getting, ask.</p>
-
-<h2>10. Payment plans that benefit the firm, not the client</h2>
-<p>Some mills structure their fees so that the firm gets paid first through the <a href="https://chapter13plan.org" title="Chapter 13 Repayment Plan - Open Bankruptcy Project" target="_blank" rel="noopener">Chapter 13 plan</a>, before unsecured creditors receive anything. While attorney fees through the plan are normal and court-approved, the structure should not create an incentive for the firm to file cases that are unlikely to succeed. If the firm profits regardless of your outcome, the incentive alignment is wrong.</p>
+<h2>Early warning signs</h2>
+<p>Federal court records show patterns that correlate with higher failure rates:</p>
+<ul>
+<li><strong>Bare petition filing</strong> - Cases filed without complete schedules have higher dismissal rates</li>
+<li><strong>Prior bankruptcy filings</strong> - Repeat filers have lower completion rates than first-time filers</li>
+<li><strong>Early payment default</strong> - Missing payments in the first 6 months strongly predicts dismissal</li>
+<li><strong>No <a href="https://chapter13plan.org/" title="confirmation">plan confirmation</a></strong> - Cases where the plan is never confirmed rarely reach <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a></li>
+</ul>
 
 <div class="warning-box">
-<div class="label">Important nuance</div>
-<p style="margin-bottom:0">Not every high-volume firm is a mill, and not every small firm provides quality representation. The key question is: does the attorney know your case, and are their clients' cases succeeding at a reasonable rate? Volume alone does not make a mill. Bad outcomes do.</p>
+<div class="label">District-level variation</div>
+<p style="margin-bottom:0">Failure rates vary dramatically by district. Some courts see dismissal rates above 75%, while others stay below 50%. These differences reflect variations in local legal culture, trustee practices, attorney quality, and judicial approach. Check your district's specific data through the FJC Integrated Database or public <a href="https://1328f.com/glossary.html#pacer" title="PACER">PACER</a> records.</p>
 </div>
 
-<h2>What to do next</h2>
+<h2>What you can do to improve your chances</h2>
 <ul>
-<li><a href="/what-to-do.html">What to do if you think you hired a mill</a> - practical steps</li>
-<li><a href="/find-a-lawyer.html">How to find a quality bankruptcy lawyer</a> - what to look for</li>
-<li><a href="/why-cases-fail.html">Why Chapter 13 cases fail</a> - understand the risks</li>
+<li><strong>Be honest about your budget</strong> - Build in a realistic cushion for unexpected expenses</li>
+<li><strong>Choose your attorney carefully</strong> - Ask about their Chapter 13 completion rate during consultations</li>
+<li><strong>File complete petitions</strong> - Avoid bare petitions unless there is a genuine emergency</li>
+<li><strong>Communicate with your trustee</strong> - If you anticipate missing a payment, notify the trustee early</li>
+<li><strong>Consider <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a></strong> - If you qualify, <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> has a discharge rate above 95% and takes only 3-4 months</li>
+</ul>
+
+<h2>Related resources</h2>
+<ul>
+<li><a href="/warning-signs.html">10 Warning Signs of a Bankruptcy Mill</a></li>
+<li><a href="/find-a-lawyer.html">How to Find a Bankruptcy Lawyer</a></li>
+<li><a href="/what-to-do.html">What To Do If You Think You Hired a Mill</a></li>
 </ul>
 
 <p style="margin-top:32px; padding-top:16px; border-top:1px solid var(--border); font-size:14px; color:var(--text-muted);">This page provides general information based on publicly available federal court records. It does not constitute legal advice. Consult a licensed attorney for advice on your specific situation.</p>
@@ -279,7 +264,7 @@ th { color: var(--text-muted); font-size: 13px; text-transform: uppercase; lette
   </form>
 </div>
 <div style="background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:2rem auto 1rem">
-<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.</p>
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.</p>
 <a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s" onmouseover="this.style.background='#9e2c6f'" onmouseout="this.style.background='#bf3989'">&#9829; Sponsor</a>
 </div>
 
@@ -342,14 +327,14 @@ th { color: var(--text-muted); font-size: 13px; text-transform: uppercase; lette
   <ul style="list-style:none;padding:0;margin:0">
     <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=bankruptcymill.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
     <li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=bankruptcymill.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
-    <li style="margin-bottom:0.5rem"><a href="https://studentloanforgive.org/?utm_source=bankruptcymill.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Student Loan Forgiveness Programs</a> <span style="color:#7d8590;font-size:0.8rem">-- studentloanforgive.org</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=bankruptcymill.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
   </ul>
 </div>
 <!-- BTN:FOOTER:START -->
 <footer class="network-footer" role="contentinfo">
   <p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
 
-  <p class="disclaimer">Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+  <p class="disclaimer">Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
   <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=bankruptcymill.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=bankruptcymill.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=bankruptcymill.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 <div style="text-align:center;padding:1rem 0 0;border-top:1px solid #30363d;margin-top:1.5rem">
 <p style="color:#7d8590;font-size:0.75rem">Our research was cited by the federal judiciary as <a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" target="_blank" rel="noopener" style="color:#58a6ff">Suggestion 26-BK-3</a></p>
