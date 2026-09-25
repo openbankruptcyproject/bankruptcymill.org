@@ -1,5 +1,5 @@
 # What Is a Bankruptcy Mill?
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 > How to spot a bankruptcy mill before you hire one. Warning signs, exposed practices, and data-driven red flags. Protect your case - free 2026 guide.
 
@@ -7,17 +7,42 @@
 bankruptcymill.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Bankruptcy Mill Outcomes Data: What Federal Courts Show: https://bankruptcymill.org/data-on-outcomes.html
+- Bankruptcy Mill Outcomes Data [2026]: Federal Court Dismissal Rates That Identify High-Volume Firms: https://bankruptcymill.org/data-on-outcomes.html
 - How to Find a Bankruptcy Lawyer - Bankruptcy Mill: https://bankruptcymill.org/find-a-lawyer.html
 - Bankruptcy Mill FAQ - How to Spot and Avoid High-Volume Firms: https://bankruptcymill.org/frequently-asked-questions.html
-- How to Spot a Bankruptcy Mill: Warning Signs: https://bankruptcymill.org/how-to-spot.html
+- How to Spot a Bankruptcy Mill [2026]: Warning Signs Before You Hire the Firm: https://bankruptcymill.org/how-to-spot.html
 - What Is a Bankruptcy Mill?: https://bankruptcymill.org/
-- 10 Questions to Ask a Bankruptcy Attorney Before Hiring - Bankruptcy Mill: https://bankruptcymill.org/questions-to-ask.html
+- 10 Questions to Ask a Bankruptcy Attorney Before Hiring [2026]: Vetting for Mill Practices: https://bankruptcymill.org/questions-to-ask.html
 - Red Flags Your Bankruptcy Attorney May Be a Mill - 15 Warning Signs - Bankruptcy Mill: https://bankruptcymill.org/red-flags.html
-- 10 Warning Signs You Hired a Bankruptcy Mill: https://bankruptcymill.org/warning-signs.html
+- 10 Warning Signs You Hired a Bankruptcy Mill [2026]: KRPC 1.1, 1.4, and 3.4 Red Flags: https://bankruptcymill.org/warning-signs.html
 - What To Do If You Think You Hired a Bankruptcy Mill: https://bankruptcymill.org/what-to-do.html
 - Why Do Chapter 13 Cases Fail? - Bankruptcy Mill: https://bankruptcymill.org/why-cases-fail.html
 - Privacy Policy: https://bankruptcymill.org/privacy.html
+- About bankruptcymill.org: https://bankruptcymill.org/about.html
+- Binary-Forcing Notice with Conditional Variants | Bankruptcy Mill: https://bankruptcymill.org/methodology/binary-forcing-notice.html
+- Reserved-Instrument Discipline (Variants A through E) | Bankruptcy Mill: https://bankruptcymill.org/methodology/reserved-instrument-discipline.html
+- Zugzwang Net Architecture | Bankruptcy Mill: https://bankruptcymill.org/methodology/zugzwang-net-architecture.html
+- Fraud-by-Accumulation Framework | Bankruptcy Mill: https://bankruptcymill.org/methodology/fraud-by-accumulation-framework.html
+- Vague Adverse Characterization Pattern Catalog | Bankruptcy Mill: https://bankruptcymill.org/methodology/vague-adverse-characterization-pattern.html
+- Documentary-Anchoring Discipline | Bankruptcy Mill: https://bankruptcymill.org/methodology/documentary-anchoring-discipline.html
+- Channel-Independent Escalation Discipline | Bankruptcy Mill: https://bankruptcymill.org/methodology/channel-independent-escalation.html
+- UPL Guardrail with Counsel-Gated Federal Channel Routing | Bankruptcy Mill: https://bankruptcymill.org/methodology/upl-guardrail-counsel-gated-routing.html
+- Counsel-Readability Standard | Bankruptcy Mill: https://bankruptcymill.org/methodology/counsel-readability-standard.html
+- Exemplar-Case-for-AI-in-Law Positioning | Bankruptcy Mill: https://bankruptcymill.org/methodology/exemplar-case-for-ai-in-law.html
+- Five-Tier Graduated Punishment Ladder | Bankruptcy Mill: https://bankruptcymill.org/methodology/five-tier-graduated-punishment-ladder.html
+- Soft Documentary Trap | Bankruptcy Mill: https://bankruptcymill.org/methodology/soft-documentary-trap.html
+- Category-Substitution Refusal Pattern Detection | Bankruptcy Mill: https://bankruptcymill.org/methodology/category-substitution-refusal-pattern.html
+- Disclosed-Facts + Opinion-from-the-Record Structure | Bankruptcy Mill: https://bankruptcymill.org/methodology/disclosed-facts-opinion-from-record.html
+- CFO-Incentive Cross-Case Outreach Framework | Bankruptcy Mill: https://bankruptcymill.org/methodology/cfo-incentive-cross-case-outreach.html
+- Adversary Public-Statement Rebuke Structure | Bankruptcy Mill: https://bankruptcymill.org/methodology/adversary-public-statement-rebuke.html
+- Hold Posture as Information Warfare | Bankruptcy Mill: https://bankruptcymill.org/methodology/hold-posture-as-information-warfare.html
+- Attribution Publication Sequence (Methodology then RECAP then Bar) | Bankruptcy Mill: https://bankruptcymill.org/methodology/attribution-publication-sequence.html
+- Originating-Attorney Attribution Methodology | Bankruptcy Mill: https://bankruptcymill.org/methodology/originating-attorney-attribution.html
+- Spoliation Is Historical Not Cured | Bankruptcy Mill: https://bankruptcymill.org/methodology/spoliation-historical-not-cured.html
+- Forensic Complainant Filling Federal Vacuum | Bankruptcy Mill: https://bankruptcymill.org/methodology/forensic-complainant-filling-vacuum.html
+- Surveillance-Legibility Preservation Discipline | Bankruptcy Mill: https://bankruptcymill.org/methodology/surveillance-legibility-preservation.html
+- Claude-Parallel Labor Architecture | Bankruptcy Mill: https://bankruptcymill.org/methodology/claude-parallel-labor-architecture.html
+- No-Facade Architecture Principle | Bankruptcy Mill: https://bankruptcymill.org/methodology/no-facade-architecture.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
